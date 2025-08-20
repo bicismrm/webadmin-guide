@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "BIC-ISMRM Web Admin Guide"
+  description: "Documentation for managing the Chapter’s website including roles, workflows, protocols, and style guides."
+  navbar:
+    background: blue
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+
+editor: visual
+
