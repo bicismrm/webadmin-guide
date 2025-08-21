@@ -1,0 +1,12 @@
+---
+title: "Style Guides"
+format: html
+---
+
+This page provides detailed guidance on the written style used across our chapter's website. The purpose is to ensure consistency in tone, terminology and formatting, while promoting inclusive and accessible content throughout.
+
+## Writing
+
+## Branding
+
+## Accessibility

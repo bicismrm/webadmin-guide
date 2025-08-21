@@ -1,0 +1,16 @@
+---
+title: "workflows"
+format: html
+---
+
+This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website.
+
+## Header and Footer
+
+- Only the section under the “BIC Menu” is editable. 
+- All other parts of the header and footer are maintained by the ISMRM central office.
+- Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact. 
+- Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
+
+
+

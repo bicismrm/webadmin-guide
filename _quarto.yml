@@ -6,11 +6,23 @@ website:
   title: "BIC-ISMRM Web Admin Guide"
   description: "Documentation for managing the Chapter’s website including roles, workflows, protocols, and style guides."
   navbar:
-    background: blue
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: darkblue
+    # left:
+    #   - href: index.qmd
+    #     text: Home
+    #   - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Introduction"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Workflows"
+        href: workflows.qmd
+      - text: "Style Guides"
+        href: style-guides.qmd
 
 format:
   html:

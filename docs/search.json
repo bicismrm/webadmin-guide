@@ -12,5 +12,54 @@
     "title": "About",
     "section": "",
     "text": "About the website management team."
+  },
+  {
+    "objectID": "about.html#roles",
+    "href": "about.html#roles",
+    "title": "About",
+    "section": "Roles",
+    "text": "Roles"
+  },
+  {
+    "objectID": "style-guides.html",
+    "href": "style-guides.html",
+    "title": "Style Guides",
+    "section": "",
+    "text": "This page provides detailed guidance on the written style used across our chapter’s website. The purpose is to ensure consistency in tone, terminology and formatting, while promoting inclusive and accessible content throughout."
+  },
+  {
+    "objectID": "style-guides.html#writing",
+    "href": "style-guides.html#writing",
+    "title": "Style Guides",
+    "section": "Writing",
+    "text": "Writing"
+  },
+  {
+    "objectID": "style-guides.html#branding",
+    "href": "style-guides.html#branding",
+    "title": "Style Guides",
+    "section": "Branding",
+    "text": "Branding"
+  },
+  {
+    "objectID": "style-guides.html#accessibility",
+    "href": "style-guides.html#accessibility",
+    "title": "Style Guides",
+    "section": "Accessibility",
+    "text": "Accessibility"
+  },
+  {
+    "objectID": "workflows.html",
+    "href": "workflows.html",
+    "title": "workflows",
+    "section": "",
+    "text": "This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website."
+  },
+  {
+    "objectID": "workflows.html#header-and-footer",
+    "href": "workflows.html#header-and-footer",
+    "title": "workflows",
+    "section": "Header and Footer",
+    "text": "Header and Footer\n\nOnly the section under the “BIC Menu” is editable.\nAll other parts of the header and footer are maintained by the ISMRM central office.\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling."
   }
 ]
