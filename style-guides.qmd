@@ -20,6 +20,134 @@ The LinkedIn Learning course below is a helpful resource:
 
 -   [Creating Online Content](https://www.linkedin.com/learning/creating-online-content)
 
+### A to Z
+
+Please follow the specific guidance below to ensure all content on our chapter’s website maintains a consistent style.[^1]
+
+[^1]: This style guide for the Chapter’s website builds on best practices and guidance from the University of Southampton Digital UX Team and Editorial Team and the University Hospital Southampton Communications Team.
+
+---
+accordion:
+  - many-items:
+    - header: A
+      body: \<h5\>Abbreviations and acronyms\</h5\>
+            \<h5\>Academics\</h5\>
+            \<h5\>Addressing the user\</h5\>
+            \<h5\>Ages\</h5\>
+             \<p\>Do not use hyphens in ages unless to avoid
+             confusion, although it’s always best to write 
+             in a way that avoids ambiguity. For example, 
+             ‘a class of 15 16-year-old students took the 
+             A level course’ can be written as ‘15 students
+             aged 16 took the A level course’.\</p\>
+            \<h5\>Alt text\</h5\>
+    - header: B
+      body: \<h5\>BA (not B.A.)\</h5\>
+            \<h5\>Bullet points and steps\</h5\>
+    - header: C
+      body: \<h5\>Capitalisation\</h5\>
+            \<h5\>Captions\</h5\>
+            \<h5\>Contractions\</h5\>
+            \<h5\>Course/programme/degree\</h5\>
+    - header: D
+      body: \<h5\>data\</h5\>
+            \<p\>Treat as a singular noun&#58; The data is stored 
+            on a secure server.</p\>
+            \<h5\>data set\</h5\>
+            \<h5\>Dashes\</h5\>
+            \<h5\>Dates\</h5\>
+    - header: E
+      body: \<h5\>early career researcher (ECR)\</h5\>
+            \<h5\>Email\</h5\>
+              \<p\>Email is not hyphenated.\</p\>
+            \<h5\>eg, etc and ie\</h5\>
+    - header: F
+      body: \<h5\>Faculties\</h5\>
+            \<h5\>FAQs (frequently asked questions)\</h5\>
+            \<p\>Do not use FAQs.\</p\>
+    - header: G
+      body: \<h5\>Gender\</h5\>
+              \<p\>Use gender-neutral language wherever possible, 
+                   e.g. \<i\>you, them their, they.\</i\>\</p\>
+            \<h5\>Great Britain\</h5\>
+              \<p\>Refers only to England, Scotland and Wales.
+                   Northern Ireland is not included. State explicitely 
+                   if referring to multiple areas, e.g. "England,
+                   Scotland and Wales". \</p\>
+    - header: H
+      body: \<h5\>hospital\</h5\>
+             \<p\>Only capitalise the initial H when referring to a
+                  specific, named hospital.\</p\>
+            \<h5\>Hyphens\</h5\>
+    - header: I
+      body: \<h5\>ie\</h5\>
+              \<p\>See eg, etc and ie.\</p\>
+            \<h5\>Italics\</h5\>
+            \<h5\>Initials in a name\</h5\>
+              \<p\>No space between initials for names. For examples,
+                  AW Smith, KP Jones.\</p\>
+    - header: J
+      body: \<h5\>Jargon\</h5\>
+               \<p\>Avoid jargon. Follow guidance on using 
+                    plain English.\</p\>
+    - header: K
+      body: \<h5\>keywords\</h5\>
+               \<p\>keywords\</p\>
+    - header: L
+      body: \<h5\>Links\</h5\>
+            \<h5\>Lists\</h5\>
+    - header: M
+      body: \<h5\>MA (not M.A.)\</h5\>
+            \<h5\>Major, Minor\</h5\>
+            \<h5\>Master's, master's\</h5\>
+            \<h5\>MEng\</h5\>
+            \<h5\>MPhil\</h5\>
+            \<h5\>MPhys\</h5\>
+            \<h5\>MSci (Not M Sci)\</h5\>
+            \<h5\>Measurements\</h5\>
+            \<h5\>metadata\</h5\>
+            \<h5\>multidisciplinary\</h5\>
+    - header: "N"
+      body: \<h5\>Numbers\</h5\>
+    - header: O
+      body: \<h5\>Organisations\</h5\>
+            \<h5\>Open Day/open day\</h5\>
+    - header: P
+      body: \<h5\>Percentages\</h5\>
+            \<h5\>PhD\</h5\>
+            \<h5\>postdoctoral\</h5\>
+            \<h5\>postgraduate\</h5\>
+            \<h5\>Program/programme\</h5\>
+    - header: Q
+      body: \<h5\>Qualifications\</h5\>
+    - header: S
+      body: \<h5\>Spelling\</h5\>
+            \<h5\>Space after a full stop\</h5\>
+            \<h5\>Steps\</h5\>
+    - header: T
+      body: \<h5\>Telephone numbers\</h5\>
+            \<h5\>Times\</h5\>
+            \<h5\>Trust\</h5\>
+    - header: U
+      body: \<h5\>University\</h5\>
+            \<h5\>Underlining\</h5\>
+              \<p\>avoid underlining text for emphasis, and 
+              use bold instead. This is important in digital 
+              copy as readers often think underlining signifies 
+              a hyperlink.\</p\>
+            \<h5\>URLs\</h5\>
+    - header: W
+      body: \<h5\>Website addresses\</h5\>
+    - header: "Y"
+      body: \<h5\>yesterday\</h5\>
+            \<h5\>YouTube\</h5\>
+filters:
+  - accordion
+---
+
+
+{{< accordion many-items >}}
+
 ## Branding
 
 To be added.
