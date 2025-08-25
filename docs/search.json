@@ -4,62 +4,129 @@
     "href": "index.html",
     "title": "Welcome to BIC-ISMRM Web Admin Guide",
     "section": "",
-    "text": "Overview"
+    "text": "Overview",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About the website management team."
+    "text": "About the website management team.",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "about.html#roles",
     "href": "about.html#roles",
     "title": "About",
     "section": "Roles",
-    "text": "Roles"
+    "text": "Roles",
+    "crumbs": [
+      "About"
+    ]
   },
   {
     "objectID": "style-guides.html",
     "href": "style-guides.html",
     "title": "Style Guides",
     "section": "",
-    "text": "This page provides detailed guidance on the written style used across our chapter’s website. The purpose is to ensure consistency in tone, terminology and formatting, while promoting inclusive and accessible content throughout."
+    "text": "This page provides detailed guidance on the written style used across our chapter’s website. The purpose is to ensure consistency in tone, terminology and formatting, while promoting inclusive and accessible content throughout.",
+    "crumbs": [
+      "Style Guides"
+    ]
   },
   {
     "objectID": "style-guides.html#writing",
     "href": "style-guides.html#writing",
     "title": "Style Guides",
     "section": "Writing",
-    "text": "Writing"
+    "text": "Writing\nThese guiding principles aim to ensure written content remains clear, accessible, and user-focused:\n\nWrite for scanning: Online readers tend to scan rather than read every word. On average, they read about only 20% of the text on a page.\nUser-oriented: Write content that helps visitors to quickly and easily complete the specific tasks they come for.\nUse plain language: Keep language simple and direct to make information easy to understand and accessible to all users.\nGuide the reader: Use clear headings, signposts, and answer unasked questions to make content more engaging and relevant.\nHighlight key information: Place important messages at the top of the page to capture visitor’s attention.\nUse credible sources: Provide accurate information and support with authoritative references to to back up the content and build trust.\n\nThe LinkedIn Learning course below is a helpful resource:\n\nCreating Online Content",
+    "crumbs": [
+      "Style Guides"
+    ]
   },
   {
     "objectID": "style-guides.html#branding",
     "href": "style-guides.html#branding",
     "title": "Style Guides",
     "section": "Branding",
-    "text": "Branding"
+    "text": "Branding\nTo be added.",
+    "crumbs": [
+      "Style Guides"
+    ]
   },
   {
     "objectID": "style-guides.html#accessibility",
     "href": "style-guides.html#accessibility",
     "title": "Style Guides",
     "section": "Accessibility",
-    "text": "Accessibility"
+    "text": "Accessibility",
+    "crumbs": [
+      "Style Guides"
+    ]
   },
   {
     "objectID": "workflows.html",
     "href": "workflows.html",
     "title": "workflows",
     "section": "",
-    "text": "This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website."
+    "text": "This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website.",
+    "crumbs": [
+      "Workflows"
+    ]
   },
   {
     "objectID": "workflows.html#header-and-footer",
     "href": "workflows.html#header-and-footer",
     "title": "workflows",
     "section": "Header and Footer",
-    "text": "Header and Footer\n\nOnly the section under the “BIC Menu” is editable.\nAll other parts of the header and footer are maintained by the ISMRM central office.\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling."
+    "text": "Header and Footer\n\nOnly the section under the “BIC Menu” is editable.\nAll other parts of the header and footer are maintained by the ISMRM central office.\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#footnotes",
+    "href": "style-guides.html#footnotes",
+    "title": "Style Guides",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis style guide for the Chapter’s website builds on best practices and guidance from the University of Southampton Digital UX Team and Editorial Team and the University Hospital Southampton Communications Team.↩︎",
+    "crumbs": [
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#templates",
+    "href": "style-guides.html#templates",
+    "title": "Style Guides",
+    "section": "Templates",
+    "text": "Templates\nPlease find below a collection of marketing templates, orignally developed by the ISMRM central office, to help ensure that all Chapter presentations, flyers, and social media posts maintain a consistent style and visual identity.\n\nPresentation\n\nDownload Overview Powerpoint template\nDownload Walk-in Slides template\n\n\n\nFlyer\n\nDownload Flyer template\n\n\n\nSocial Media\n\nDownload Social Media template",
+    "crumbs": [
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#presentation",
+    "href": "style-guides.html#presentation",
+    "title": "Style Guides",
+    "section": "Presentation",
+    "text": "Presentation\n\nDownload Overview Powerpoint template\nDownload Walk-in Slides template\n\n\nFlyer\n\nDownload Flyer template\n\n\n\nSocial Media\n\nDownload Social Media template",
+    "crumbs": [
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "workflows.html#mr-education-series",
+    "href": "workflows.html#mr-education-series",
+    "title": "workflows",
+    "section": "MR Education Series",
+    "text": "MR Education Series\nTo be added.",
+    "crumbs": [
+      "Workflows"
+    ]
   }
 ]

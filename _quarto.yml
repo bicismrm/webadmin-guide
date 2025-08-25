@@ -23,6 +23,8 @@ website:
         href: workflows.qmd
       - text: "Style Guides"
         href: style-guides.qmd
+        
+  page-navigation: true
 
 format:
   html:

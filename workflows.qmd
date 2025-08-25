@@ -11,3 +11,7 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 -   All other parts of the header and footer are maintained by the ISMRM central office.
 -   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 -   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
+
+## MR Education Series
+
+To be added.

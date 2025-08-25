@@ -7,6 +7,35 @@ This page provides detailed guidance on the written style used across our chapte
 
 ## Writing
 
+These guiding principles aim to ensure written content remains clear, accessible, and user-focused:
+
+-   **Write for scanning**: Online readers tend to scan rather than read every word. On average, they read about only 20% of the text on a page.
+-   **User-oriented**: Write content that helps visitors to quickly and easily complete the specific tasks they come for.
+-   **Use plain language**: Keep language simple and direct to make information easy to understand and accessible to all users.
+-   **Guide the reader**: Use clear headings, signposts, and answer unasked questions to make content more engaging and relevant.
+-   **Highlight key information**: Place important messages at the top of the page to capture visitor's attention.
+-   **Use credible sources**: Provide accurate information and support with authoritative references to to back up the content and build trust.
+
+The LinkedIn Learning course below is a helpful resource:
+
+-   [Creating Online Content](https://www.linkedin.com/learning/creating-online-content)
+
 ## Branding
+
+To be added.
+
+## Templates
+
+Please find below a collection of marketing templates, orignally developed by the ISMRM central office, to help ensure that all Chapter presentations, flyers, and social media posts maintain a consistent style and visual identity.
+
+### Presentation
+ - [Download Overview Powerpoint template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Overview-PPT-Slides-Template-Final-23.08.25.pptx)
+ - [Download Walk-in Slides template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Walk-in-Slides-Template-23.08.25.pptx)
+
+### Flyer
+ - [Download Flyer template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Flyer-Template-23.08.25.pptx)
+
+### Social Media
+ - [Download Social Media template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Social-Media-Final-23.08.25.pptx)
 
 ## Accessibility
