@@ -12,6 +12,14 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 -   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 -   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
+## Mansfield Research Innovation Award
+
+**Note:** This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.
+
+- Check the chapter's Newsletters - this is typically where the winners are announced.
+- If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
+- For older or unclear entries, reach out to the chapter's Executive Committee for further details.
+
 ## MR Education Series
 
 To be added.
