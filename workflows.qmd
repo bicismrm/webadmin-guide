@@ -12,6 +12,16 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 -   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 -   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
+## Committee Members
+
+### Current Members
+
+To be added.
+
+### Past Members
+
+To be added.
+
 ## Bill Moore Lecture Recipients
 
 - Refer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.  
