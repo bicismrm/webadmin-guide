@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to the BIC-ISMRM Web Admin Guide",
     "section": "",
-    "text": "This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (https://bic.ismrm.org).\nThe purpose is to maintain clear, open, and transparent documentation of website management processes, and serve as a shared reference that supports knowledge transfer, collaboration, and the long-term sustainability of the Chapter’s web presence.\nIt is designed to help current and future web management team members update and maintain the website with consistency and confidence.\nIn this guide, you will find:\n\nAbout: Roles and responsibilities within the website management team.\nWorkflows: Step-by-step instructions and procedures for updating content and managing different pages.\nStyle Guides: Chapter-specific standards for writing, branding, templates, and accessibility, aligned with ISMRM central office requirements while preserving the Chapter’s unique identity.",
+    "text": "This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (https://bic.ismrm.org).\nThe purpose is to maintain clear, open, and transparent documentation of website management processes, and serve as a shared reference that supports knowledge transfer, collaboration, and the long-term sustainability of the Chapter’s web presence.\nIt is designed to help current and future web management team members update and maintain the website with consistency and confidence.",
     "crumbs": [
       "Introduction"
     ]
@@ -14,7 +14,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About the website management team.",
+    "text": "The Web Manager serves as the chapter’s main liaison with the ISMRM central office on all matters related to the chapter website, ensuring the website serves as an accessible and up-to-date resource for members and also aligns with the central office’s technical and branding standards.\nThe Chapter’s current Web Manager is Yukai Zou, who can be contacted at bicwebmaster@ismrm.org.",
     "crumbs": [
       "About"
     ]
@@ -133,12 +133,12 @@
     "objectID": "index.html#overview",
     "href": "index.html#overview",
     "title": "Welcome to the BIC-ISMRM Web Admin Guide",
-    "section": "",
-    "text": "This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (https://bic.ismrm.org).\nThe purpose is to maintain clear, open, and transparent documentation of website management processes, and serve as a shared reference that supports knowledge transfer, collaboration, and the long-term sustainability of the Chapter’s web presence.\nIt is designed to help current and future web management team members update and maintain the website with consistency and confidence.\nIn this guide, you will find:\n\nAbout: Roles and responsibilities within the website management team.\nWorkflows: Step-by-step instructions and procedures for updating content and managing different pages.\nStyle Guides: Chapter-specific standards for writing, branding, templates, and accessibility, aligned with ISMRM central office requirements while preserving the Chapter’s unique identity.",
+    "section": "Overview",
+    "text": "Overview\nIn this guide, you will find:\n\nAbout: Roles and responsibilities within the website management team.\nWorkflows: Step-by-step instructions and procedures for updating content and managing different pages.\nStyle Guides: Chapter-specific standards for writing, branding, templates, and accessibility, aligned with ISMRM central office requirements while preserving the Chapter’s unique identity.",
     "crumbs": [
       "Introduction"
-      ]
-    },
+    ]
+  },
   {
     "objectID": "workflows.html#mansfield-research-innovation-award",
     "href": "workflows.html#mansfield-research-innovation-award",
@@ -147,6 +147,56 @@
     "text": "Mansfield Research Innovation Award\nNote: This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.\n\nCheck the chapter’s Newsletters - this is typically where the winners are announced.\nIf affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees’ affiliations.\nFor older or unclear entries, reach out to the chapter’s Executive Committee for further details.",
     "crumbs": [
       "Workflows"
+    ]
+  },
+  {
+    "objectID": "about.html#scope",
+    "href": "about.html#scope",
+    "title": "About",
+    "section": "Scope",
+    "text": "Scope\nThe Web Manager oversees the management for the chapter’s website and acts as a liaison with the ISMRM central office.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#key-responsibilities",
+    "href": "about.html#key-responsibilities",
+    "title": "About",
+    "section": "Key Responsibilities",
+    "text": "Key Responsibilities\n\nServe as the primary point of contact between the chapter and the ISMRM central office for all website-related matters, ensure alignment with ISMRM’s website style guide while preserving the unique identity of the chapter.\nOversee timely updates to content on the chapter’s website, including MR educational series, newsletters, events, job postings, and routine link checks.\nCollaborate with the chapter’s executive committee, communicate proposed updates and changes prior to publication to ensure alignment with chapter goals and transparency in content management.\nMonitor website traffic and statistics for the chapter’s website, to identify areas for improvement and implement search engine optimisation.\nMaintain clear, open, and transparent documentation of website management processes on the Chapter’s GitHub repository (https://github.com/bicismrm). This includes roles and responsibilities, protocols, workflows, training materials and style guides, to support knowledge transfer and long-term sustainability.\nBring forward ideas to enhance the chapter website’s usability, accessibility, and relevance for members. Explore strategic improvements to the website infrastructure, including potential adoption of more flexible or independent management models.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#term-length",
+    "href": "about.html#term-length",
+    "title": "About",
+    "section": "Term Length",
+    "text": "Term Length\nThe standard term of service is three years, eligible for re-election for one additional term.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#time-commitment",
+    "href": "about.html#time-commitment",
+    "title": "About",
+    "section": "Time Commitment",
+    "text": "Time Commitment\nApproximately 5-10 hours per month. Actual time commitment may vary based on workload, chapter activities, and the evolving needs of website management.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#report-to",
+    "href": "about.html#report-to",
+    "title": "About",
+    "section": "Report To",
+    "text": "Report To\nTo the British & Irish Chapter:\n\nThe Chapter President\nDesignated Executive Committee members with relevant experience\n\nTo the ISMRM central office:\n\nDirector of IT & Web\nDirector of Global Marketing and Communications\nIT & Web Coordinator",
+    "crumbs": [
+      "About"
     ]
   }
 ]

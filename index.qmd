@@ -2,13 +2,13 @@
 title: "Welcome to the BIC-ISMRM Web Admin Guide"
 ---
 
-## Overview
-
-This **Web Admin Guide** is the central resource for managing and maintaining the Chapter’s website (<https://bic.ismrm.org>). 
+This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (<https://bic.ismrm.org>). 
 
 The purpose is to maintain clear, open, and transparent documentation of website management processes, and serve as a shared reference that supports knowledge transfer, collaboration, and the long-term sustainability of the Chapter’s web presence. 
 
 It is designed to help current and future web management team members update and maintain the website with consistency and confidence.
+
+## Overview
 
 In this guide, you will find:
 
