@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to BIC-ISMRM Web Admin Guide",
+    "title": "Welcome to the BIC-ISMRM Web Admin Guide",
     "section": "",
-    "text": "Overview",
+    "text": "This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (https://bic.ismrm.org).\nThe purpose is to maintain clear, open, and transparent documentation of website management processes, and serve as a shared reference that supports knowledge transfer, collaboration, and the long-term sustainability of the Chapter’s web presence.\nIt is designed to help current and future web management team members update and maintain the website with consistency and confidence.\nIn this guide, you will find:\n\nAbout: Roles and responsibilities within the website management team.\nWorkflows: Step-by-step instructions and procedures for updating content and managing different pages.\nStyle Guides: Chapter-specific standards for writing, branding, templates, and accessibility, aligned with ISMRM central office requirements while preserving the Chapter’s unique identity.",
     "crumbs": [
       "Introduction"
     ]
@@ -127,6 +127,16 @@
     "text": "MR Education Series\nTo be added.",
     "crumbs": [
       "Workflows"
+    ]
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Welcome to the BIC-ISMRM Web Admin Guide",
+    "section": "",
+    "text": "This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (https://bic.ismrm.org).\nThe purpose is to maintain clear, open, and transparent documentation of website management processes, and serve as a shared reference that supports knowledge transfer, collaboration, and the long-term sustainability of the Chapter’s web presence.\nIt is designed to help current and future web management team members update and maintain the website with consistency and confidence.\nIn this guide, you will find:\n\nAbout: Roles and responsibilities within the website management team.\nWorkflows: Step-by-step instructions and procedures for updating content and managing different pages.\nStyle Guides: Chapter-specific standards for writing, branding, templates, and accessibility, aligned with ISMRM central office requirements while preserving the Chapter’s unique identity.",
+    "crumbs": [
+      "Introduction"
     ]
   }
 ]
