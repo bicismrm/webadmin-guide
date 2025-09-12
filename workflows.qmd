@@ -1,5 +1,5 @@
 ---
-title: "workflows"
+title: "Workflows"
 format: html
 ---
 
@@ -14,7 +14,9 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 
 ## Mansfield Research Innovation Award
 
-**Note:** This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.
+::: {.callout-note}
+This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.
+:::
 
 - Check the chapter's Newsletters - this is typically where the winners are announced.
 - If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
@@ -23,3 +25,12 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 ## MR Education Series
 
 To be added.
+
+## Contacts
+
+- Ensure that the information on Contacts page is kept up to date. 
+- Ensure that the general contact email ([bicismrm@ismrm.org](mailto:bicismrm@ismrm.org)) is used consistently across all communication platforms.
+
+::: {.callout-note}
+The Chapter’s general enquiries email address is [bicismrm@ismrm.org](mailto:bicismrm@ismrm.org). Messages sent to this address are automatically forwarded to the current Chapter President. The Web Management Team can provide technical support related to the mailbox if needed, but does not oversee its content or day-to-day management.
+:::

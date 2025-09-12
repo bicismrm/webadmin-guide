@@ -1,5 +1,6 @@
 ---
 title: "About"
+format: html
 ---
 
 The Web Manager serves as the chapter’s main liaison with the ISMRM central office on all matters related to the chapter website, ensuring the website serves as an accessible and up-to-date resource for members and also aligns with the central office’s technical and branding standards.

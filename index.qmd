@@ -1,5 +1,6 @@
 ---
 title: "Welcome to the BIC-ISMRM Web Admin Guide"
+format: html
 ---
 
 This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (<https://bic.ismrm.org>). 

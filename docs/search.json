@@ -72,7 +72,7 @@
   {
     "objectID": "workflows.html",
     "href": "workflows.html",
-    "title": "workflows",
+    "title": "Workflows",
     "section": "",
     "text": "This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website.",
     "crumbs": [
@@ -82,7 +82,7 @@
   {
     "objectID": "workflows.html#header-and-footer",
     "href": "workflows.html#header-and-footer",
-    "title": "workflows",
+    "title": "Workflows",
     "section": "Header and Footer",
     "text": "Header and Footer\n\nOnly the section under the “BIC Menu” is editable.\nAll other parts of the header and footer are maintained by the ISMRM central office.\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
     "crumbs": [
@@ -122,7 +122,7 @@
   {
     "objectID": "workflows.html#mr-education-series",
     "href": "workflows.html#mr-education-series",
-    "title": "workflows",
+    "title": "Workflows",
     "section": "MR Education Series",
     "text": "MR Education Series\nTo be added.",
     "crumbs": [
@@ -142,9 +142,9 @@
   {
     "objectID": "workflows.html#mansfield-research-innovation-award",
     "href": "workflows.html#mansfield-research-innovation-award",
-    "title": "workflows",
+    "title": "Workflows",
     "section": "Mansfield Research Innovation Award",
-    "text": "Mansfield Research Innovation Award\nNote: This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.\n\nCheck the chapter’s Newsletters - this is typically where the winners are announced.\nIf affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees’ affiliations.\nFor older or unclear entries, reach out to the chapter’s Executive Committee for further details.",
+    "text": "Mansfield Research Innovation Award\n\n\n\n\n\n\nNote\n\n\n\nThis is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.\n\n\n\nCheck the chapter’s Newsletters - this is typically where the winners are announced.\nIf affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees’ affiliations.\nFor older or unclear entries, reach out to the chapter’s Executive Committee for further details.",
     "crumbs": [
       "Workflows"
     ]
@@ -197,6 +197,16 @@
     "text": "Report To\nTo the British & Irish Chapter:\n\nThe Chapter President\nDesignated Executive Committee members with relevant experience\n\nTo the ISMRM central office:\n\nDirector of IT & Web\nDirector of Global Marketing and Communications\nIT & Web Coordinator",
     "crumbs": [
       "About"
+    ]
+  },
+  {
+    "objectID": "workflows.html#contacts",
+    "href": "workflows.html#contacts",
+    "title": "Workflows",
+    "section": "Contacts",
+    "text": "Contacts\n\nEnsure that the information on Contacts page is kept up to date.\nEnsure that the general contact email (bicismrm@ismrm.org) is used consistently across all communication platforms.\n\n\n\n\n\n\n\nNote\n\n\n\nThe Chapter’s general enquiries email address is bicismrm@ismrm.org. Messages sent to this address are automatically forwarded to the current Chapter President. The Web Management Team can provide technical support related to the mailbox if needed, but does not oversee its content or day-to-day management.",
+    "crumbs": [
+      "Workflows"
     ]
   }
 ]
