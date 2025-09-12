@@ -12,13 +12,19 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 -   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 -   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
+## Bill Moore Lecture Recipients
+
+- Refer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.  
+- Record the recipient’s name and the city of the annual meeting.
+- If any of the details are unclear, confirm with the Chapter’s Executive Committee.
+
 ## Mansfield Research Innovation Award
 
 ::: {.callout-note}
 This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.
 :::
 
-- Check the chapter's Newsletters - this is typically where the winners are announced.
+- Check the Chapter's Newsletters - this is typically where the winners are announced.
 - If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
 - For older or unclear entries, reach out to the chapter's Executive Committee for further details.
 
