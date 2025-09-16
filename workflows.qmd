@@ -24,29 +24,33 @@ To be added.
 
 ## Bill Moore Lecture Recipients
 
-- Refer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.  
-- Record the recipient’s name and the city of the annual meeting.
-- If any of the details are unclear, confirm with the Chapter’s Executive Committee.
+-   Refer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\
+-   Record the recipient’s name and the city of the annual meeting.
+-   If any of the details are unclear, confirm with the Chapter’s Executive Committee.
 
 ## Mansfield Research Innovation Award
 
-::: {.callout-note}
+::: callout-note
 This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.
 :::
 
-- Check the Chapter's Newsletters - this is typically where the winners are announced.
-- If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
-- For older or unclear entries, reach out to the chapter's Executive Committee for further details.
+-   Check the Chapter's Newsletters - this is typically where the winners are announced.
+-   If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
+-   For older or unclear entries, reach out to the chapter's Executive Committee for further details.
 
 ## MR Education Series
 
 To be added.
 
+## Jobs
+
+-   The chapter does not maintain its own job board. At present, visitors are redirected to the ISMRM & ISMRT Career Center (<https://www.ismrm.org/career-center/>). 
+
 ## Contacts
 
-- Ensure that the information on Contacts page is kept up to date. 
-- Ensure that the general contact email ([bicismrm@ismrm.org](mailto:bicismrm@ismrm.org)) is used consistently across all communication platforms.
+-   Ensure that the information on Contacts page is kept up to date.
+-   Ensure that the general contact email ([bicismrm\@ismrm.org](mailto:bicismrm@ismrm.org)) is used consistently across all communication platforms.
 
-::: {.callout-note}
-The Chapter’s general enquiries email address is [bicismrm@ismrm.org](mailto:bicismrm@ismrm.org). Messages sent to this address are automatically forwarded to the current Chapter President. The Web Management Team can provide technical support related to the mailbox if needed, but does not oversee its content or day-to-day management.
+::: callout-note
+The Chapter’s general enquiries email address is [bicismrm\@ismrm.org](mailto:bicismrm@ismrm.org). Messages sent to this address are automatically forwarded to the current Chapter President. The Web Management Team can provide technical support related to the mailbox if needed, but does not oversee its content or day-to-day management.
 :::
