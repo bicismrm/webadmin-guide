@@ -35,13 +35,15 @@ Before publishing, confirm all details with each member individually.
     -   Annual Meeting Organiser: add the meeting location. For example: John Doe, 1995 (Oxford)
     -   Industrial Representative: add the company. For example: Jane Doe, 2000 (Company)
 
-## Bill Moore Lecture Recipients
+## Funding and Recognition
+
+### Bill Moore Lecture Recipients
 
 -   Refer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\
 -   Record the recipient’s name and the city of the annual meeting.
 -   If any of the details are unclear, confirm with the Chapter’s Executive Committee.
 
-## Mansfield Research Innovation Award
+### Mansfield Research Innovation Award
 
 ::: callout-note
 This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.
