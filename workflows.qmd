@@ -67,9 +67,9 @@ To be added.
 
 ## Contacts
 
--   Ensure that the information on Contacts page is kept up to date.
--   Ensure that the general contact email ([bicismrm\@ismrm.org](mailto:bicismrm@ismrm.org)) is used consistently across all communication platforms.
-
-::: callout-note
+::: callout-important
 The Chapter’s general enquiries email address is [bicismrm\@ismrm.org](mailto:bicismrm@ismrm.org). Messages sent to this address are automatically forwarded to the current Chapter President. The Web Management Team can provide technical support related to the mailbox if needed, but does not oversee its content or day-to-day management.
 :::
+
+-   Ensure that the information on Contacts page is kept up to date.
+-   Ensure that the general contact email ([bicismrm\@ismrm.org](mailto:bicismrm@ismrm.org)) is used consistently across all communication platforms.
