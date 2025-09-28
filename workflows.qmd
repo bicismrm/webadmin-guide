@@ -55,7 +55,30 @@ This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual
 
 ## MR Education Series
 
-To be added.
+::: callout-important
+[Subscribe to the mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=BCISMRM&A=1) to receive announcements for education series.
+:::
+
+### Schedule
+
+Schedules for upcoming education series are usually announced in the following months:
+
+| **Series** | **Month** |
+|---------|:-----|
+| Summer  | May to June   |
+| Autumn  | September  |
+| Winter  | January    |
+
+### During the series
+
+- Weekly reminders with the speaker and topic are sent via the mailing list.
+- The schedule may change, so please check for updates.
+
+### End of series
+
+1. Send a reminder email to the person responsible for the video recordings, asking them to share the files with the IT & Web coordinator at the ISMRM central office.
+
+2. The IT & Web coordinator will upload the recordings and share the video links once they are available.
 
 ## Newsletter
 
