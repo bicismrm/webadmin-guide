@@ -22,11 +22,6 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 3. Update the link on the Chapter’s website to point to the latest version.  
 4. **Do not delete old versions**, as this may cause other links to break.  
 
-## Communication
-
--   Notify Chapter members of the updated bylaws via email or newsletter.
--   Update references in Chapter documents and webpages to link to the new version.
-
 ## Committee Members
 
 ### Current Members
