@@ -12,6 +12,21 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 -   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 -   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
+## Bylaws
+
+- The Chapter’s bylaws are revised by the Executive Committee. Final approval and ratification typically occur at the Chapter’s Annual Meeting.  
+- The official version of the bylaws is hosted on the Chapter’s website (WordPress). Previous versions are archived under the ISMRM site (`ismrm.org/british/`). Queries for archived copies can be directed to the ISMRM IT & Web Coordinator.  
+
+1. After ratification, the Chapter President (or designated officer) prepares the final PDF.  
+2. Upload the PDF to the website’s media library and copy the URL for the newly uploaded version.  
+3. Update the link on the Chapter’s website to point to the latest version.  
+4. **Do not delete old versions**, as this may cause other links to break.  
+
+## Communication
+
+-   Notify Chapter members of the updated bylaws via email or newsletter.
+-   Update references in Chapter documents and webpages to link to the new version.
+
 ## Committee Members
 
 ### Current Members
@@ -63,22 +78,22 @@ This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual
 
 Schedules for upcoming education series are usually announced in the following months:
 
-| **Series** | **Month** |
-|---------|:-----|
-| Summer  | May to June   |
-| Autumn  | September  |
-| Winter  | January    |
+| **Series** | **Month**   |
+|------------|:------------|
+| Summer     | May to June |
+| Autumn     | September   |
+| Winter     | January     |
 
 ### During the series
 
-- Weekly reminders with the speaker and topic are sent via the mailing list.
-- The schedule may change, so please check for updates.
+-   Weekly reminders with the speaker and topic are sent via the mailing list.
+-   The schedule may change, so please check for updates.
 
 ### End of series
 
-1. Send a reminder email to the person responsible for the video recordings, asking them to share the files with the IT & Web coordinator at the ISMRM central office.
+1.  Send a reminder email to the person responsible for the video recordings, asking them to share the files with the IT & Web coordinator at the ISMRM central office.
 
-2. The IT & Web coordinator will upload the recordings and share the video links once they are available.
+2.  The IT & Web coordinator will upload the recordings and share the video links once they are available.
 
 ## Newsletter
 
@@ -86,7 +101,7 @@ To be added.
 
 ## Jobs
 
--   The chapter does not maintain its own job board. At present, visitors are redirected to the ISMRM & ISMRT Career Center (<https://www.ismrm.org/career-center/>). 
+-   The chapter does not maintain its own job board. At present, visitors are redirected to the ISMRM & ISMRT Career Center (<https://www.ismrm.org/career-center/>).
 
 ## Contacts
 
