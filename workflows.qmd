@@ -12,7 +12,19 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 -   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 -   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
-## Announcements
+## Bylaws
+
+-   The Chapter’s bylaws are revised by the Executive Committee. Final approval and ratification typically occur at the Chapter’s Annual Meeting.\
+-   The official version of the bylaws is hosted on the Chapter’s website (WordPress). Previous versions are archived under the ISMRM site (`ismrm.org/british/`). Queries for archived copies can be directed to the ISMRM IT & Web Coordinator.
+
+1.  After ratification, the Chapter President (or designated officer) prepares the final PDF.\
+2.  Upload the PDF to the website’s media library and copy the URL for the newly uploaded version.\
+3.  Update the link on the Chapter’s website to point to the latest version.\
+4.  **Do not delete old versions**, as this may cause other links to break.
+
+## Landing Page
+
+### Announcements
 
 The most common type of announcement is the Chapter’s Annual Meeting.
 
@@ -30,16 +42,30 @@ Dates and venues for pre-conference workshops may differ from the main meeting a
   - Keep the content brief and concise.
   - signpost visitors to the dedicated meeting website for further details and updates.
 
+### Featured Education Talks
 
-## Bylaws
+This section on the landing page contains:
 
--   The Chapter’s bylaws are revised by the Executive Committee. Final approval and ratification typically occur at the Chapter’s Annual Meeting.\
--   The official version of the bylaws is hosted on the Chapter’s website (WordPress). Previous versions are archived under the ISMRM site (`ismrm.org/british/`). Queries for archived copies can be directed to the ISMRM IT & Web Coordinator.
+- A hyperlink to the [MR Education Series](https://bic.ismrm.org/mr-education-series/) page.
+- A media slider displaying cover images from recent education talks.
 
-1.  After ratification, the Chapter President (or designated officer) prepares the final PDF.\
-2.  Upload the PDF to the website’s media library and copy the URL for the newly uploaded version.\
-3.  Update the link on the Chapter’s website to point to the latest version.\
-4.  **Do not delete old versions**, as this may cause other links to break.
+Detailed work instructions for maintaining this section will be added in a future update.
+
+For instructions on maintaining the MR Education Series page, see [MR Education Series](#mr-education-series).
+
+### Newsletter
+
+A hyperlink is displayed on the first line for subscribing to the newsletter, followed by a static image showing the table of contents for the current issue, and a hyperlink to the [Newsletter Archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd) at the bottom of the section.
+
+::: callout-note
+The archive page only includes newsletters published up to **16 April 2020**.
+:::
+
+Each time a new issue is released:
+
+1. Capture a screenshot of the table of contents.
+2. Adjust image contrast as needed to optimise readability on the landing page.
+3. Replace the existing image with the updated screenshot.
 
 ## Committee Members
 
@@ -108,10 +134,6 @@ Schedules for upcoming education series are usually announced in the following m
 1.  Send a reminder email to the person responsible for the video recordings, asking them to share the files with the IT & Web coordinator at the ISMRM central office.
 
 2.  The IT & Web coordinator will upload the recordings and share the video links once they are available.
-
-## Newsletter
-
-To be added.
 
 ## Jobs
 
