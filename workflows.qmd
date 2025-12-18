@@ -1,6 +1,8 @@
 ---
 title: "Workflows"
-format: html
+format: 
+  html:
+    code-copy: true
 ---
 
 This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website.
@@ -49,9 +51,25 @@ This section on the landing page contains:
 - A hyperlink to the [MR Education Series](https://bic.ismrm.org/mr-education-series/) page.
 - A media slider displaying cover images from recent education talks.
 
-Detailed work instructions for maintaining this section will be added in a future update.
-
+::: callout-note
 For instructions on maintaining the MR Education Series page, see [MR Education Series](#mr-education-series).
+:::
+
+Please follow the steps below to update the media slides on the landing page.
+
+1. Use your browser’s **Developer Tools** to locate the cover image element and the corresponding Vimeo video link for the new education talk.
+2. Save a copy of the cover image offline. Rename the image file using the following convention:  
+   `mr-education-{YYYY}-{MM}-{DD}-cover`
+   The following snippet may be useful to serve as a template for this workflow:
+   ```
+Image x
+mr-education-{YYYY}-{MM}-{DD}-cover
+URL: https://player.vimeo.com/video/<vimeo-id>
+```
+3. Upload the cover image to the media library.
+4. In the media slides element, create a duplicate of an existing media slide entry.
+5. Replace the existing image with the new cover image.
+6. Update the embedded video URL with the correct Vimeo link.
 
 ### Newsletter
 

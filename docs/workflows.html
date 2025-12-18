@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3eebd6310a11e2b6b4ab37d17146c9ee.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b68b75ebcef15fd0fa79112f5faf31c2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -272,8 +272,32 @@ Important
 <li>A hyperlink to the <a href="https://bic.ismrm.org/mr-education-series/">MR Education Series</a> page.</li>
 <li>A media slider displaying cover images from recent education talks.</li>
 </ul>
-<p>Detailed work instructions for maintaining this section will be added in a future update.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>For instructions on maintaining the MR Education Series page, see <a href="#mr-education-series">MR Education Series</a>.</p>
+</div>
+</div>
+<p>Please follow the steps below to update the media slides on the landing page.</p>
+<ol type="1">
+<li><p>Use your browser’s <strong>Developer Tools</strong> to locate the cover image element and the corresponding Vimeo video link for the new education talk.</p></li>
+<li><p>Save a copy of the cover image offline. Rename the image file using the following convention:<br>
+<code>mr-education-{YYYY}-{MM}-{DD}-cover</code> The following snippet may be useful to serve as a template for this workflow:</p>
+<pre><code>Image x
+mr-education-{YYYY}-{MM}-{DD}-cover
+URL: https://player.vimeo.com/video/&lt;vimeo-id&gt;</code></pre></li>
+<li><p>Upload the cover image to the media library.</p></li>
+<li><p>In the media slides element, create a duplicate of an existing media slide entry.</p></li>
+<li><p>Replace the existing image with the new cover image.</p></li>
+<li><p>Update the embedded video URL with the correct Vimeo link.</p></li>
+</ol>
 </section>
 <section id="newsletter" class="level3">
 <h3 class="anchored" data-anchor-id="newsletter">Newsletter</h3>
