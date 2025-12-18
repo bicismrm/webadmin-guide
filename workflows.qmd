@@ -126,6 +126,39 @@ This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual
 -   If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
 -   For older or unclear entries, reach out to the chapter's Executive Committee for further details.
 
+## Events
+
+This page serves as an archive of past events hosted or sponsored by the Chapter.
+
+### Chapter Annual Meetings
+
+The primary liaison for maintaining this section is the **Annual Meeting Chair**.
+
+After the annual meeting has concluded, confirm the following details with the meeting chair:
+
+-   Meeting dates\
+-   City and country\
+-   Programme for pre-event workshops (if applicable)\
+-   Final version of the annual meeting programme
+
+### Postgraduate Symposia
+
+The primary liaison for maintaining this section is the **Student Representatives**.
+
+After the postgraduate symposium has concluded, confirm the following details:
+
+-   Location of the event (city or virtual)\
+-   Final version of the symposium programme
+
+### Sponsored Events
+
+he primary liaison for maintaining this section is the **recipient of the New Initiative & Public Engagement Fund**.
+
+After the event has concluded, confirm the following details:
+
+-   City and country\
+-   Final version of the event programme
+
 ## MR Education Series
 
 ::: callout-important
