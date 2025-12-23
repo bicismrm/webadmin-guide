@@ -308,5 +308,15 @@
     "crumbs": [
       "Workflows"
     ]
+  },
+  {
+    "objectID": "workflows.html#admin-portal",
+    "href": "workflows.html#admin-portal",
+    "title": "Workflows",
+    "section": "Admin Portal",
+    "text": "Admin Portal\n\nGo to the admin login page: https://bic.ismrm.org/wp-login.php\nEnter your credentials.\n\n\n\n\n\n\n\nNote\n\n\n\nIf you are unsure of your credentials or experience login issues, contact the ISMRM IT & Web Coordinator.\n\n\n\nAfter logging in, you will see the WordPress dashboard. Use the left-hand menu to navigate to Pages, Posts, or other sections as needed.",
+    "crumbs": [
+      "Workflows"
+    ]
   }
 ]

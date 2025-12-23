@@ -7,6 +7,17 @@ format:
 
 This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website.
 
+## Admin Portal
+
+1. Go to the admin login page: <https://bic.ismrm.org/wp-login.php>
+2. Enter your credentials.
+
+::: callout-note
+If you are unsure of your credentials or experience login issues, contact the ISMRM IT \& Web Coordinator.
+:::
+
+3. After logging in, you will see the WordPress dashboard. Use the left-hand menu to navigate to Pages, Posts, or other sections as needed.
+
 ## Header and Footer
 
 -   Only the section under the “BIC Menu” is editable.
