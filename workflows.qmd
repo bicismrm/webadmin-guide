@@ -9,21 +9,40 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 
 ## Admin Portal
 
-1. Go to the admin login page: <https://bic.ismrm.org/wp-login.php>
-2. Enter your credentials.
+1.  Go to the admin login page: <https://bic.ismrm.org/wp-login.php>
+2.  Enter your credentials.
 
 ::: callout-note
-If you are unsure of your credentials or experience login issues, contact the ISMRM IT \& Web Coordinator.
+If you are unsure of your credentials or experience login issues, contact the ISMRM IT & Web Coordinator.
 :::
 
-3. After logging in, you will see the WordPress dashboard. Use the left-hand menu to navigate to Pages, Posts, or other sections as needed.
+3.  After logging in, you will see the WordPress dashboard. Use the left-hand menu to navigate to Pages, Posts, or other sections as needed.
 
 ## Header and Footer
 
--   Only the section under the “BIC Menu” is editable.
--   All other parts of the header and footer are maintained by the ISMRM central office.
--   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
--   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
+::: callout-important
+The header and footer are maintained by the ISMRM central office.
+:::
+
+![ISMRM Header (January 2026)](img/ismrm-header-2026Jan.png)
+
+![ISMRM Footer (January 2026)](img/ismrm-footer-2026Jan.png)
+
+- Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
+- **The section under the “BIC Menu” is editable.** Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
+
+## Navigation Bar
+
+::: callout-important
+The chapter navigation bar is maintained by the ISMRM central office.
+:::
+
+![Chapter's navigation bar (January 2026)](img/chapter-navbar-2026Jan.png)
+
+- The navigation bar replicates the **BIC Menu** in the [Header section](#header-and-footer) to provide easy access to chapter pages.
+- The navigation bar is **not sticky**, i.e., it does not remain fixed while scrolling.
+- On narrow screens or mobile devices, the navigation bar collapses into a **hamburger menu** (&#8801;).
+- Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
 ## Bylaws
 
@@ -45,22 +64,24 @@ The most common type of announcement is the Chapter’s Annual Meeting.
 Dates and venues for pre-conference workshops may differ from the main meeting and should be clearly highlighted to avoid confusion.
 :::
 
-1. Confirm key details with the annual meeting organiser, including:
-  - Meeting dates  
-  - Venue information  
-  - Any pre-conference workshops  
-  - The dedicated meeting website, usually hosted by the organising institution
+1.  Confirm key details with the annual meeting organiser, including:
 
-2. Draft an announcement for the meeting chair to review and approve. 
-  - Keep the content brief and concise.
-  - signpost visitors to the dedicated meeting website for further details and updates.
+-   Meeting dates\
+-   Venue information\
+-   Any pre-conference workshops\
+-   The dedicated meeting website, usually hosted by the organising institution
+
+2.  Draft an announcement for the meeting chair to review and approve.
+
+-   Keep the content brief and concise.
+-   signpost visitors to the dedicated meeting website for further details and updates.
 
 ### Featured Education Talks
 
 This section on the landing page contains:
 
-- A hyperlink to the [MR Education Series](https://bic.ismrm.org/mr-education-series/) page.
-- A media slider displaying cover images from recent education talks.
+-   A hyperlink to the [MR Education Series](https://bic.ismrm.org/mr-education-series/) page.
+-   A media slider displaying cover images from recent education talks.
 
 ::: callout-note
 For instructions on maintaining the MR Education Series page, see [MR Education Series](#mr-education-series).
@@ -68,23 +89,28 @@ For instructions on maintaining the MR Education Series page, see [MR Education 
 
 Please follow the steps below to update the media slides on the landing page.
 
-1. Use your browser’s **Developer Tools** to locate the cover image element and the corresponding Vimeo video link for the new education talk.
-2. Save a copy of the cover image offline. Rename the image file using the following convention:  
-   `mr-education-{YYYY}-{MM}-{DD}-cover`
-   The following snippet may be useful to serve as a template for this workflow:
-   ```
-Image x
-mr-education-{YYYY}-{MM}-{DD}-cover
-URL: https://player.vimeo.com/video/<vimeo-id>
-```
-3. Upload the cover image to the media library.
-4. In the media slides element, create a duplicate of an existing media slide entry.
-5. Replace the existing image with the new cover image.
-6. Update the embedded video URL with the correct Vimeo link.
+1.  Use your browser’s **Developer Tools** to locate the cover image element and the corresponding Vimeo video link for the new education talk.
+
+2.  Save a copy of the cover image offline. Rename the image file using the following convention:\
+    `mr-education-{YYYY}-{MM}-{DD}-cover` The following snippet may be useful to serve as a template for this workflow:
+
+    ```         
+    Image x
+    mr-education-{YYYY}-{MM}-{DD}-cover
+    URL: https://player.vimeo.com/video/<vimeo-id>
+    ```
+
+3.  Upload the cover image to the media library.
+
+4.  In the media slides element, create a duplicate of an existing media slide entry.
+
+5.  Replace the existing image with the new cover image.
+
+6.  Update the embedded video URL with the correct Vimeo link.
 
 ### Newsletter
 
-A hyperlink is displayed on the first line for subscribing to the newsletter, followed by a static image showing the table of contents for the current issue, and a hyperlink to the [Newsletter Archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd) at the bottom of the section.
+The official name for our chapter's newsletter is **Positive Spin**. A hyperlink is displayed on the first line for subscribing to the newsletter, followed by a static image showing the table of contents for the current issue, and a hyperlink to the [Newsletter Archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd) at the bottom of the section.
 
 ::: callout-note
 The archive page only includes newsletters published up to **16 April 2020**.
@@ -92,9 +118,22 @@ The archive page only includes newsletters published up to **16 April 2020**.
 
 Each time a new issue is released:
 
-1. Capture a screenshot of the table of contents.
-2. Adjust image contrast as needed to optimise readability on the landing page.
-3. Replace the existing image with the updated screenshot.
+1.  Capture a screenshot of the table of contents.
+2.  Adjust image contrast as needed to optimise readability on the landing page.
+3.  Replace the existing image with the updated screenshot.
+
+### Prize, Awards and Funding
+
+To be added.
+
+### Past Chapter Meetings
+
+::: callout-note
+This section is scheduled for removal. Users are directed to the [Events page](https://bic.ismrm.org/events/) via the **BIC Menu** and **Navigation Bar**.
+:::
+
+- Include bullet points for quick access to past Chapter Meeting Programmes and Postgraduate Symposium Programmes.
+- A hyperlink at the end provided access to the [Events](https://bic.ismrm.org/events/) page to access the full events archive.
 
 ## Committee Members
 
@@ -163,14 +202,14 @@ After the postgraduate symposium has concluded, confirm the following details:
 
 ### Sponsored Events
 
-he primary liaison for maintaining this section is the **recipient of the New Initiative & Public Engagement Fund**.
+The primary liaison for maintaining this section is the **recipient of the New Initiative & Public Engagement Fund**.
 
 After the event has concluded, confirm the following details:
 
 -   City and country\
 -   Final version of the event programme
 
-## MR Education Series
+## MR Education Series {#mr-education-series}
 
 ::: callout-important
 [Subscribe to the mailing list](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=BCISMRM&A=1) to receive announcements for education series.

@@ -1,15 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the BIC-ISMRM Web Admin Guide",
-    "section": "",
-    "text": "This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (https://bic.ismrm.org).\nThe purpose is to maintain clear, open, and transparent documentation of website management processes, and serve as a shared reference that supports knowledge transfer, collaboration, and the long-term sustainability of the Chapter’s web presence.\nIt is designed to help current and future web management team members update and maintain the website with consistency and confidence.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -17,136 +7,6 @@
     "text": "The Web Manager serves as the chapter’s main liaison with the ISMRM central office on all matters related to the chapter website, ensuring the website serves as an accessible and up-to-date resource for members and also aligns with the central office’s technical and branding standards.\nThe Chapter’s current Web Manager is Yukai Zou, who can be contacted at bicwebmaster@ismrm.org.",
     "crumbs": [
       "About"
-    ]
-  },
-  {
-    "objectID": "about.html#roles",
-    "href": "about.html#roles",
-    "title": "About",
-    "section": "Roles",
-    "text": "Roles",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "style-guides.html",
-    "href": "style-guides.html",
-    "title": "Style Guides",
-    "section": "",
-    "text": "This page provides detailed guidance on the written style used across our chapter’s website. The purpose is to ensure consistency in tone, terminology and formatting, while promoting inclusive and accessible content throughout.",
-    "crumbs": [
-      "Style Guides"
-    ]
-  },
-  {
-    "objectID": "style-guides.html#writing",
-    "href": "style-guides.html#writing",
-    "title": "Style Guides",
-    "section": "Writing",
-    "text": "Writing\nThese guiding principles aim to ensure written content remains clear, accessible, and user-focused:\n\nWrite for scanning: Online readers tend to scan rather than read every word. On average, they read about only 20% of the text on a page.\nUser-oriented: Write content that helps visitors to quickly and easily complete the specific tasks they come for.\nUse plain language: Keep language simple and direct to make information easy to understand and accessible to all users.\nGuide the reader: Use clear headings, signposts, and answer unasked questions to make content more engaging and relevant.\nHighlight key information: Place important messages at the top of the page to capture visitor’s attention.\nUse credible sources: Provide accurate information and support with authoritative references to to back up the content and build trust.\n\nThe LinkedIn Learning course below is a helpful resource:\n\nCreating Online Content\n\n\nA to Z\nPlease follow the specific guidance below to ensure all content on our chapter’s website maintains a consistent style.1\n\n\n\n\nA\n\n\n\nAbbreviations and acronyms Academics Addressing the user Ages Do not use hyphens in ages unless to avoid confusion, although it’s always best to write in a way that avoids ambiguity. For example, ‘a class of 15 16-year-old students took the A level course’ can be written as ‘15 students aged 16 took the A level course’. Alt text\n\n\n\n\n\nB\n\n\n\nBA (not B.A.) Bullet points and steps\n\n\n\n\n\nC\n\n\n\nCapitalisation Captions Contractions Course/programme/degree\n\n\n\n\n\nD\n\n\n\ndata Treat as a singular noun: The data is stored on a secure server. data set Dashes Dates\n\n\n\n\n\nE\n\n\n\nearly career researcher (ECR) Email Email is not hyphenated. eg, etc and ie\n\n\n\n\n\nF\n\n\n\nFaculties FAQs (frequently asked questions) Do not use FAQs.\n\n\n\n\n\nG\n\n\n\nGender Use gender-neutral language wherever possible, e.g. you, them their, they. Great Britain Refers only to England, Scotland and Wales. Northern Ireland is not included. State explicitely if referring to multiple areas, e.g. “England, Scotland and Wales”. \n\n\n\n\n\nH\n\n\n\nhospital Only capitalise the initial H when referring to a specific, named hospital. Hyphens\n\n\n\n\n\nI\n\n\n\nie See eg, etc and ie. Italics Initials in a name No space between initials for names. For examples, AW Smith, KP Jones.\n\n\n\n\n\nJ\n\n\n\nJargon Avoid jargon. Follow guidance on using plain English.\n\n\n\n\n\nK\n\n\n\nkeywords keywords\n\n\n\n\n\nL\n\n\n\nLinks Lists\n\n\n\n\n\nM\n\n\n\nMA (not M.A.) Major, Minor Master’s, master’s MEng MPhil MPhys MSci (Not M Sci) Measurements metadata multidisciplinary\n\n\n\n\n\nN\n\n\n\nNumbers\n\n\n\n\n\nO\n\n\n\nOrganisations Open Day/open day\n\n\n\n\n\nP\n\n\n\nPercentages PhD postdoctoral postgraduate Program/programme\n\n\n\n\n\nQ\n\n\n\nQualifications\n\n\n\n\n\nS\n\n\n\nSpelling Space after a full stop Steps\n\n\n\n\n\nT\n\n\n\nTelephone numbers Times Trust\n\n\n\n\n\nU\n\n\n\nUniversity Underlining avoid underlining text for emphasis, and use bold instead. This is important in digital copy as readers often think underlining signifies a hyperlink. URLs\n\n\n\n\n\nW\n\n\n\nWebsite addresses\n\n\n\n\n\nY\n\n\n\nyesterday YouTube",
-    "crumbs": [
-      "Style Guides"
-    ]
-  },
-  {
-    "objectID": "style-guides.html#branding",
-    "href": "style-guides.html#branding",
-    "title": "Style Guides",
-    "section": "Branding",
-    "text": "Branding\nTo be added.",
-    "crumbs": [
-      "Style Guides"
-    ]
-  },
-  {
-    "objectID": "style-guides.html#accessibility",
-    "href": "style-guides.html#accessibility",
-    "title": "Style Guides",
-    "section": "Accessibility",
-    "text": "Accessibility",
-    "crumbs": [
-      "Style Guides"
-    ]
-  },
-  {
-    "objectID": "workflows.html",
-    "href": "workflows.html",
-    "title": "Workflows",
-    "section": "",
-    "text": "This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website.",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "workflows.html#header-and-footer",
-    "href": "workflows.html#header-and-footer",
-    "title": "Workflows",
-    "section": "Header and Footer",
-    "text": "Header and Footer\n\nOnly the section under the “BIC Menu” is editable.\nAll other parts of the header and footer are maintained by the ISMRM central office.\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "style-guides.html#footnotes",
-    "href": "style-guides.html#footnotes",
-    "title": "Style Guides",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis style guide for the Chapter’s website builds on best practices and guidance from the University of Southampton Digital UX Team and Editorial Team and the University Hospital Southampton Communications Team.↩︎",
-    "crumbs": [
-      "Style Guides"
-    ]
-  },
-  {
-    "objectID": "style-guides.html#templates",
-    "href": "style-guides.html#templates",
-    "title": "Style Guides",
-    "section": "Templates",
-    "text": "Templates\nPlease find below a collection of marketing templates, orignally developed by the ISMRM central office, to help ensure that all Chapter presentations, flyers, and social media posts maintain a consistent style and visual identity.\n\nPresentation\n\nDownload Overview Powerpoint template\nDownload Walk-in Slides template\n\n\n\nFlyer\n\nDownload Flyer template\n\n\n\nSocial Media\n\nDownload Social Media template",
-    "crumbs": [
-      "Style Guides"
-    ]
-  },
-  {
-    "objectID": "style-guides.html#presentation",
-    "href": "style-guides.html#presentation",
-    "title": "Style Guides",
-    "section": "Presentation",
-    "text": "Presentation\n\nDownload Overview Powerpoint template\nDownload Walk-in Slides template\n\n\nFlyer\n\nDownload Flyer template\n\n\n\nSocial Media\n\nDownload Social Media template",
-    "crumbs": [
-      "Style Guides"
-    ]
-  },
-  {
-    "objectID": "workflows.html#mr-education-series",
-    "href": "workflows.html#mr-education-series",
-    "title": "Workflows",
-    "section": "MR Education Series",
-    "text": "MR Education Series\n\n\n\n\n\n\nImportant\n\n\n\nSubscribe to the mailing list to receive announcements for education series.\n\n\n\nSchedule\nSchedules for upcoming education series are usually announced in the following months:\n\n\n\nSeries\nMonth\n\n\n\n\nSummer\nMay to June\n\n\nAutumn\nSeptember\n\n\nWinter\nJanuary\n\n\n\n\n\nDuring the series\n\nWeekly reminders with the speaker and topic are sent via the mailing list.\nThe schedule may change, so please check for updates.\n\n\n\nEnd of series\n\nSend a reminder email to the person responsible for the video recordings, asking them to share the files with the IT & Web coordinator at the ISMRM central office.\nThe IT & Web coordinator will upload the recordings and share the video links once they are available.",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
-    "title": "Welcome to the BIC-ISMRM Web Admin Guide",
-    "section": "Overview",
-    "text": "Overview\nIn this guide, you will find:\n\nAbout: Roles and responsibilities within the website management team.\nWorkflows: Step-by-step instructions and procedures for updating content and managing different pages.\nStyle Guides: Chapter-specific standards for writing, branding, templates, and accessibility, aligned with ISMRM central office requirements while preserving the Chapter’s unique identity.",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "workflows.html#mansfield-research-innovation-award",
-    "href": "workflows.html#mansfield-research-innovation-award",
-    "title": "Workflows",
-    "section": "Mansfield Research Innovation Award",
-    "text": "Mansfield Research Innovation Award\n\n\n\n\n\n\nNote\n\n\n\nThis is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.\n\n\n\nCheck the Chapter’s Newsletters - this is typically where the winners are announced.\nIf affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees’ affiliations.\nFor older or unclear entries, reach out to the chapter’s Executive Committee for further details.",
-    "crumbs": [
-      "Workflows"
     ]
   },
   {
@@ -200,61 +60,61 @@
     ]
   },
   {
-    "objectID": "workflows.html#contacts",
-    "href": "workflows.html#contacts",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the BIC-ISMRM Web Admin Guide",
+    "section": "",
+    "text": "This Web Admin Guide is the central resource for managing and maintaining the Chapter’s website (https://bic.ismrm.org).\nThe purpose is to maintain clear, open, and transparent documentation of website management processes, and serve as a shared reference that supports knowledge transfer, collaboration, and the long-term sustainability of the Chapter’s web presence.\nIt is designed to help current and future web management team members update and maintain the website with consistency and confidence.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Welcome to the BIC-ISMRM Web Admin Guide",
+    "section": "Overview",
+    "text": "Overview\nIn this guide, you will find:\n\nAbout: Roles and responsibilities within the website management team.\nWorkflows: Step-by-step instructions and procedures for updating content and managing different pages.\nStyle Guides: Chapter-specific standards for writing, branding, templates, and accessibility, aligned with ISMRM central office requirements while preserving the Chapter’s unique identity.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "workflows.html",
+    "href": "workflows.html",
     "title": "Workflows",
-    "section": "Contacts",
-    "text": "Contacts\n\n\n\n\n\n\nImportant\n\n\n\nThe Chapter’s general enquiries email address is bicismrm@ismrm.org. Messages sent to this address are automatically forwarded to the current Chapter President. The Web Management Team can provide technical support related to the mailbox if needed, but does not oversee its content or day-to-day management.\n\n\n\nEnsure that the information on Contacts page is kept up to date.\nEnsure that the general contact email (bicismrm@ismrm.org) is used consistently across all communication platforms.",
+    "section": "",
+    "text": "This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website.",
     "crumbs": [
       "Workflows"
     ]
   },
   {
-    "objectID": "workflows.html#bill-moore-lecture-recipients",
-    "href": "workflows.html#bill-moore-lecture-recipients",
+    "objectID": "workflows.html#admin-portal",
+    "href": "workflows.html#admin-portal",
     "title": "Workflows",
-    "section": "Bill Moore Lecture Recipients",
-    "text": "Bill Moore Lecture Recipients\n\nRefer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\n\nRecord the recipient’s name and the city of the annual meeting.\nIf any of the details are unclear, confirm with the Chapter’s Executive Committee.",
+    "section": "Admin Portal",
+    "text": "Admin Portal\n\nGo to the admin login page: https://bic.ismrm.org/wp-login.php\nEnter your credentials.\n\n\n\n\n\n\n\nNote\n\n\n\nIf you are unsure of your credentials or experience login issues, contact the ISMRM IT & Web Coordinator.\n\n\n\nAfter logging in, you will see the WordPress dashboard. Use the left-hand menu to navigate to Pages, Posts, or other sections as needed.",
     "crumbs": [
       "Workflows"
     ]
   },
   {
-    "objectID": "workflows.html#committee-members",
-    "href": "workflows.html#committee-members",
+    "objectID": "workflows.html#header-and-footer",
+    "href": "workflows.html#header-and-footer",
     "title": "Workflows",
-    "section": "Committee Members",
-    "text": "Committee Members\n\nCurrent Members\nFor each committee member, gather the following:\n\nPhoto (square format preferred)\nFull name\nExecutive Committee position\nPrimary affiliated institution and City\n\nBefore publishing, confirm all details with each member individually.\n\n\nPast Members\n\nReview the Chapter’s newsletters. These are the primary source for past committee members.\nIf information is missing or unclear, reach out to the chapter’s Executive Committee.\nArrange members in reverse chronological order, i.e. most recent first.\nUse the format: Full Name, Years Served. For example, John Doe, 2024-2025.\nFor the following roles, include additional details in parentheses:\n\nAnnual Meeting Organiser: add the meeting location. For example: John Doe, 1995 (Oxford)\nIndustrial Representative: add the company. For example: Jane Doe, 2000 (Company)",
+    "section": "Header and Footer",
+    "text": "Header and Footer\n\n\n\n\n\n\nImportant\n\n\n\nThe header and footer are maintained by the ISMRM central office.\n\n\n\n\n\nISMRM Header (January 2026)\n\n\n\n\n\nISMRM Footer (January 2026)\n\n\n\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nThe section under the “BIC Menu” is editable. Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
     "crumbs": [
       "Workflows"
     ]
   },
   {
-    "objectID": "workflows.html#jobs",
-    "href": "workflows.html#jobs",
+    "objectID": "workflows.html#navigation-bar",
+    "href": "workflows.html#navigation-bar",
     "title": "Workflows",
-    "section": "Jobs",
-    "text": "Jobs\n\nThe chapter does not maintain its own job board. At present, visitors are redirected to the ISMRM & ISMRT Career Center (https://www.ismrm.org/career-center/).",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "workflows.html#newsletter",
-    "href": "workflows.html#newsletter",
-    "title": "Workflows",
-    "section": "Newsletter",
-    "text": "Newsletter\nTo be added.",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "workflows.html#funding-and-recognition",
-    "href": "workflows.html#funding-and-recognition",
-    "title": "Workflows",
-    "section": "Funding and Recognition",
-    "text": "Funding and Recognition\n\nBill Moore Lecture Recipients\n\nRefer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\n\nRecord the recipient’s name and the city of the annual meeting.\nIf any of the details are unclear, confirm with the Chapter’s Executive Committee.\n\n\n\nMansfield Research Innovation Award\n\n\n\n\n\n\nNote\n\n\n\nThis is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.\n\n\n\nCheck the Chapter’s Newsletters - this is typically where the winners are announced.\nIf affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees’ affiliations.\nFor older or unclear entries, reach out to the chapter’s Executive Committee for further details.",
+    "section": "Navigation Bar",
+    "text": "Navigation Bar\n\n\n\n\n\n\nImportant\n\n\n\nThe chapter navigation bar is maintained by the ISMRM central office.\n\n\n\n\n\nChapter’s navigation bar (January 2026)\n\n\n\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\nThe navigation bar is not sticky, i.e., it does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
     "crumbs": [
       "Workflows"
     ]
@@ -270,26 +130,6 @@
     ]
   },
   {
-    "objectID": "workflows.html#communication",
-    "href": "workflows.html#communication",
-    "title": "Workflows",
-    "section": "Communication",
-    "text": "Communication\n\nNotify Chapter members of the updated bylaws via email or newsletter.\nUpdate references in Chapter documents and webpages to link to the new version.",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "workflows.html#announcements",
-    "href": "workflows.html#announcements",
-    "title": "Workflows",
-    "section": "Announcements",
-    "text": "Announcements\nThe most common type of announcement is the Chapter’s Annual Meeting.\n\n\n\n\n\n\nImportant\n\n\n\nDates and venues for pre-conference workshops may differ from the main meeting and should be clearly highlighted to avoid confusion.\n\n\n\nConfirm key details with the annual meeting organiser, including:\n\n\nMeeting dates\n\nVenue information\n\nAny pre-conference workshops\n\nThe dedicated meeting website, usually hosted by the organising institution\n\n\nDraft an announcement for the meeting chair to review and approve.\n\n\nKeep the content brief and concise.\nsignpost visitors to the dedicated meeting website for further details and updates.",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
     "objectID": "workflows.html#landing-page",
     "href": "workflows.html#landing-page",
     "title": "Workflows",
@@ -300,23 +140,123 @@
     ]
   },
   {
-    "objectID": "workflows.html#events",
-    "href": "workflows.html#events",
+    "objectID": "workflows.html#committee-members",
+    "href": "workflows.html#committee-members",
     "title": "Workflows",
-    "section": "Events",
-    "text": "Events\nThis page serves as an archive of past events hosted or sponsored by the Chapter.\n\nChapter Annual Meetings\nThe primary liaison for maintaining this section is the Annual Meeting Chair.\nAfter the annual meeting has concluded, confirm the following details with the meeting chair:\n\nMeeting dates\n\nCity and country\n\nProgramme for pre-event workshops (if applicable)\n\nFinal version of the annual meeting programme\n\n\n\nPostgraduate Symposia\nThe primary liaison for maintaining this section is the Student Representatives.\nAfter the postgraduate symposium has concluded, confirm the following details:\n\nLocation of the event (city or virtual)\n\nFinal version of the symposium programme\n\n\n\nSponsored Events\nhe primary liaison for maintaining this section is the recipient of the New Initiative & Public Engagement Fund.\nAfter the event has concluded, confirm the following details:\n\nCity and country\n\nFinal version of the event programme",
+    "section": "Committee Members",
+    "text": "Committee Members\n\nCurrent Members\nFor each committee member, gather the following:\n\nPhoto (square format preferred)\nFull name\nExecutive Committee position\nPrimary affiliated institution and City\n\nBefore publishing, confirm all details with each member individually.\n\n\nPast Members\n\nReview the Chapter’s newsletters. These are the primary source for past committee members.\nIf information is missing or unclear, reach out to the chapter’s Executive Committee.\nArrange members in reverse chronological order, i.e. most recent first.\nUse the format: Full Name, Years Served. For example, John Doe, 2024-2025.\nFor the following roles, include additional details in parentheses:\n\nAnnual Meeting Organiser: add the meeting location. For example: John Doe, 1995 (Oxford)\nIndustrial Representative: add the company. For example: Jane Doe, 2000 (Company)",
     "crumbs": [
       "Workflows"
     ]
   },
   {
-    "objectID": "workflows.html#admin-portal",
-    "href": "workflows.html#admin-portal",
+    "objectID": "workflows.html#funding-and-recognition",
+    "href": "workflows.html#funding-and-recognition",
     "title": "Workflows",
-    "section": "Admin Portal",
-    "text": "Admin Portal\n\nGo to the admin login page: https://bic.ismrm.org/wp-login.php\nEnter your credentials.\n\n\n\n\n\n\n\nNote\n\n\n\nIf you are unsure of your credentials or experience login issues, contact the ISMRM IT & Web Coordinator.\n\n\n\nAfter logging in, you will see the WordPress dashboard. Use the left-hand menu to navigate to Pages, Posts, or other sections as needed.",
+    "section": "Funding and Recognition",
+    "text": "Funding and Recognition\n\nBill Moore Lecture Recipients\n\nRefer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\n\nRecord the recipient’s name and the city of the annual meeting.\nIf any of the details are unclear, confirm with the Chapter’s Executive Committee.\n\n\n\nMansfield Research Innovation Award\n\n\n\n\n\n\nNote\n\n\n\nThis is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.\n\n\n\nCheck the Chapter’s Newsletters - this is typically where the winners are announced.\nIf affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees’ affiliations.\nFor older or unclear entries, reach out to the chapter’s Executive Committee for further details.",
     "crumbs": [
       "Workflows"
+    ]
+  },
+  {
+    "objectID": "workflows.html#events",
+    "href": "workflows.html#events",
+    "title": "Workflows",
+    "section": "Events",
+    "text": "Events\nThis page serves as an archive of past events hosted or sponsored by the Chapter.\n\nChapter Annual Meetings\nThe primary liaison for maintaining this section is the Annual Meeting Chair.\nAfter the annual meeting has concluded, confirm the following details with the meeting chair:\n\nMeeting dates\n\nCity and country\n\nProgramme for pre-event workshops (if applicable)\n\nFinal version of the annual meeting programme\n\n\n\nPostgraduate Symposia\nThe primary liaison for maintaining this section is the Student Representatives.\nAfter the postgraduate symposium has concluded, confirm the following details:\n\nLocation of the event (city or virtual)\n\nFinal version of the symposium programme\n\n\n\nSponsored Events\nThe primary liaison for maintaining this section is the recipient of the New Initiative & Public Engagement Fund.\nAfter the event has concluded, confirm the following details:\n\nCity and country\n\nFinal version of the event programme",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
+    "objectID": "workflows.html#mr-education-series",
+    "href": "workflows.html#mr-education-series",
+    "title": "Workflows",
+    "section": "MR Education Series",
+    "text": "MR Education Series\n\n\n\n\n\n\nImportant\n\n\n\nSubscribe to the mailing list to receive announcements for education series.\n\n\n\nSchedule\nSchedules for upcoming education series are usually announced in the following months:\n\n\n\nSeries\nMonth\n\n\n\n\nSummer\nMay to June\n\n\nAutumn\nSeptember\n\n\nWinter\nJanuary\n\n\n\n\n\nDuring the series\n\nWeekly reminders with the speaker and topic are sent via the mailing list.\nThe schedule may change, so please check for updates.\n\n\n\nEnd of series\n\nSend a reminder email to the person responsible for the video recordings, asking them to share the files with the IT & Web coordinator at the ISMRM central office.\nThe IT & Web coordinator will upload the recordings and share the video links once they are available.",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
+    "objectID": "workflows.html#jobs",
+    "href": "workflows.html#jobs",
+    "title": "Workflows",
+    "section": "Jobs",
+    "text": "Jobs\n\nThe chapter does not maintain its own job board. At present, visitors are redirected to the ISMRM & ISMRT Career Center (https://www.ismrm.org/career-center/).",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
+    "objectID": "workflows.html#contacts",
+    "href": "workflows.html#contacts",
+    "title": "Workflows",
+    "section": "Contacts",
+    "text": "Contacts\n\n\n\n\n\n\nImportant\n\n\n\nThe Chapter’s general enquiries email address is bicismrm@ismrm.org. Messages sent to this address are automatically forwarded to the current Chapter President. The Web Management Team can provide technical support related to the mailbox if needed, but does not oversee its content or day-to-day management.\n\n\n\nEnsure that the information on Contacts page is kept up to date.\nEnsure that the general contact email (bicismrm@ismrm.org) is used consistently across all communication platforms.",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
+    "objectID": "style-guides.html",
+    "href": "style-guides.html",
+    "title": "Style Guides",
+    "section": "",
+    "text": "This page provides detailed guidance on the written style used across our chapter’s website. The purpose is to ensure consistency in tone, terminology and formatting, while promoting inclusive and accessible content throughout.",
+    "crumbs": [
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#writing",
+    "href": "style-guides.html#writing",
+    "title": "Style Guides",
+    "section": "Writing",
+    "text": "Writing\nThese guiding principles aim to ensure written content remains clear, accessible, and user-focused:\n\nWrite for scanning: Online readers tend to scan rather than read every word. On average, they read about only 20% of the text on a page.\nUser-oriented: Write content that helps visitors to quickly and easily complete the specific tasks they come for.\nUse plain language: Keep language simple and direct to make information easy to understand and accessible to all users.\nGuide the reader: Use clear headings, signposts, and answer unasked questions to make content more engaging and relevant.\nHighlight key information: Place important messages at the top of the page to capture visitor’s attention.\nUse credible sources: Provide accurate information and support with authoritative references to to back up the content and build trust.\n\nThe LinkedIn Learning course below is a helpful resource:\n\nCreating Online Content\n\n\nA to Z\nPlease follow the specific guidance below to ensure all content on our chapter’s website maintains a consistent style.1\n\n\n\n\nA\n\n\n\nAbbreviations and acronyms Academics Addressing the user Ages Do not use hyphens in ages unless to avoid confusion, although it’s always best to write in a way that avoids ambiguity. For example, ‘a class of 15 16-year-old students took the A level course’ can be written as ‘15 students aged 16 took the A level course’. Alt text\n\n\n\n\n\nB\n\n\n\nBA (not B.A.) Bullet points and steps\n\n\n\n\n\nC\n\n\n\nCapitalisation Captions Contractions Course/programme/degree\n\n\n\n\n\nD\n\n\n\ndata Treat as a singular noun: The data is stored on a secure server. data set Dashes Dates\n\n\n\n\n\nE\n\n\n\nearly career researcher (ECR) Email Email is not hyphenated. eg, etc and ie\n\n\n\n\n\nF\n\n\n\nFaculties FAQs (frequently asked questions) Do not use FAQs.\n\n\n\n\n\nG\n\n\n\nGender Use gender-neutral language wherever possible, e.g. you, them their, they. Great Britain Refers only to England, Scotland and Wales. Northern Ireland is not included. State explicitely if referring to multiple areas, e.g. “England, Scotland and Wales”. \n\n\n\n\n\nH\n\n\n\nhospital Only capitalise the initial H when referring to a specific, named hospital. Hyphens\n\n\n\n\n\nI\n\n\n\nie See eg, etc and ie. Italics Initials in a name No space between initials for names. For examples, AW Smith, KP Jones.\n\n\n\n\n\nJ\n\n\n\nJargon Avoid jargon. Follow guidance on using plain English.\n\n\n\n\n\nK\n\n\n\nkeywords keywords\n\n\n\n\n\nL\n\n\n\nLinks Lists\n\n\n\n\n\nM\n\n\n\nMA (not M.A.) Major, Minor Master’s, master’s MEng MPhil MPhys MSci (Not M Sci) Measurements metadata multidisciplinary\n\n\n\n\n\nN\n\n\n\nNumbers\n\n\n\n\n\nO\n\n\n\nOrganisations Open Day/open day\n\n\n\n\n\nP\n\n\n\nPercentages PhD postdoctoral postgraduate Program/programme\n\n\n\n\n\nQ\n\n\n\nQualifications\n\n\n\n\n\nS\n\n\n\nSpelling Space after a full stop Steps\n\n\n\n\n\nT\n\n\n\nTelephone numbers Times Trust\n\n\n\n\n\nU\n\n\n\nUniversity Underlining avoid underlining text for emphasis, and use bold instead. This is important in digital copy as readers often think underlining signifies a hyperlink. URLs\n\n\n\n\n\nW\n\n\n\nWebsite addresses\n\n\n\n\n\nY\n\n\n\nyesterday YouTube",
+    "crumbs": [
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#branding",
+    "href": "style-guides.html#branding",
+    "title": "Style Guides",
+    "section": "Branding",
+    "text": "Branding\nTo be added.",
+    "crumbs": [
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#templates",
+    "href": "style-guides.html#templates",
+    "title": "Style Guides",
+    "section": "Templates",
+    "text": "Templates\nPlease find below a collection of marketing templates, orignally developed by the ISMRM central office, to help ensure that all Chapter presentations, flyers, and social media posts maintain a consistent style and visual identity.\n\nPresentation\n\nDownload Overview Powerpoint template\nDownload Walk-in Slides template\n\n\n\nFlyer\n\nDownload Flyer template\n\n\n\nSocial Media\n\nDownload Social Media template",
+    "crumbs": [
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#accessibility",
+    "href": "style-guides.html#accessibility",
+    "title": "Style Guides",
+    "section": "Accessibility",
+    "text": "Accessibility",
+    "crumbs": [
+      "Style Guides"
+    ]
+  },
+  {
+    "objectID": "style-guides.html#footnotes",
+    "href": "style-guides.html#footnotes",
+    "title": "Style Guides",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis style guide for the Chapter’s website builds on best practices and guidance from the University of Southampton Digital UX Team and Editorial Team and the University Hospital Southampton Communications Team.↩︎",
+    "crumbs": [
+      "Style Guides"
     ]
   }
 ]
