@@ -37,9 +37,10 @@ The header and footer are maintained by the ISMRM central office.
 The chapter navigation bar is maintained by the ISMRM central office.
 :::
 
+The navigation bar replicates the **BIC Menu** in the [Header section](#header-and-footer) to provide easy access to chapter pages.
+
 ![Chapter's navigation bar (January 2026)](img/chapter-navbar-2026Jan.png)
 
-- The navigation bar replicates the **BIC Menu** in the [Header section](#header-and-footer) to provide easy access to chapter pages.
 - The navigation bar is **not sticky**, i.e., it does not remain fixed while scrolling.
 - On narrow screens or mobile devices, the navigation bar collapses into a **hamburger menu** (&#8801;).
 - Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.

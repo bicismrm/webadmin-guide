@@ -114,7 +114,7 @@
     "href": "workflows.html#navigation-bar",
     "title": "Workflows",
     "section": "Navigation Bar",
-    "text": "Navigation Bar\n\n\n\n\n\n\nImportant\n\n\n\nThe chapter navigation bar is maintained by the ISMRM central office.\n\n\n\n\n\nChapter’s navigation bar (January 2026)\n\n\n\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\nThe navigation bar is not sticky, i.e., it does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
+    "text": "Navigation Bar\n\n\n\n\n\n\nImportant\n\n\n\nThe chapter navigation bar is maintained by the ISMRM central office.\n\n\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\n\n\n\nChapter’s navigation bar (January 2026)\n\n\n\nThe navigation bar is not sticky, i.e., it does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
     "crumbs": [
       "Workflows"
     ]
