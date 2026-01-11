@@ -41,6 +41,11 @@ accordion:
              A level course’ can be written as ‘15 students
              aged 16 took the A level course’.\</p\>
             \<h5\>Alt text\</h5\>
+            \<h5\>Ampersand (&)</h5\>
+            \<p\>Do not use ampersands except in established 
+            abbreviations (e.g. R&D, B&B) or in organisation
+            where the ampersand is part of the official name 
+            (e.g. British & Irish Chapter).\</p\>
     - header: B
       body: \<h5\>BA (not B.A.)\</h5\>
             \<h5\>Bullet points and steps\</h5\>
@@ -118,6 +123,11 @@ accordion:
             \<h5\>postdoctoral\</h5\>
             \<h5\>postgraduate\</h5\>
             \<h5\>Program/programme\</h5\>
+            \<h5\>Pronouns\</h5\>
+            \<p\>Use gender-neutral language wherever possible. 
+            Disclosure of pronouns is optional; if a person has 
+            shared their pronouns, use consistently in all 
+            communications.\</p\>
     - header: Q
       body: \<h5\>Qualifications\</h5\>
     - header: S
@@ -145,7 +155,6 @@ filters:
   - accordion
 ---
 
-
 {{< accordion many-items >}}
 
 ## Branding
@@ -157,13 +166,16 @@ To be added.
 Please find below a collection of marketing templates, orignally developed by the ISMRM central office, to help ensure that all Chapter presentations, flyers, and social media posts maintain a consistent style and visual identity.
 
 ### Presentation
- - [Download Overview Powerpoint template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Overview-PPT-Slides-Template-Final-23.08.25.pptx)
- - [Download Walk-in Slides template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Walk-in-Slides-Template-23.08.25.pptx)
+
+-   [Download Overview Powerpoint template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Overview-PPT-Slides-Template-Final-23.08.25.pptx)
+-   [Download Walk-in Slides template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Walk-in-Slides-Template-23.08.25.pptx)
 
 ### Flyer
- - [Download Flyer template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Flyer-Template-23.08.25.pptx)
+
+-   [Download Flyer template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Flyer-Template-23.08.25.pptx)
 
 ### Social Media
- - [Download Social Media template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Social-Media-Final-23.08.25.pptx)
+
+-   [Download Social Media template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Social-Media-Final-23.08.25.pptx)
 
 ## Accessibility

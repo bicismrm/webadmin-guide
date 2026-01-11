@@ -5,7 +5,7 @@ format: html
 
 The Web Manager serves as the chapter’s main liaison with the ISMRM central office on all matters related to the chapter website, ensuring the website serves as an accessible and up-to-date resource for members and also aligns with the central office’s technical and branding standards.
 
-The Chapter’s current Web Manager is **Yukai Zou**, who can be contacted at [bicwebmaster@ismrm.org](mailto:bicwebmaster@ismrm.org).
+The Chapter’s current Web Manager is **Yukai Zou**, who can be contacted at [bicwebmaster\@ismrm.org](mailto:bicwebmaster@ismrm.org).
 
 ## Scope
 
@@ -13,17 +13,17 @@ The Web Manager oversees the management for the chapter’s website and acts as 
 
 ## Key Responsibilities
 
-1. Serve as the primary point of contact between the chapter and the ISMRM central office for all website-related matters, ensure alignment with ISMRM’s website style guide while preserving the unique identity of the chapter.
+1.  Serve as the primary point of contact between the chapter and the ISMRM central office for all website-related matters, ensure alignment with ISMRM’s website style guide while preserving the unique identity of the chapter.
 
-2. Oversee timely updates to content on the chapter’s website, including MR educational series, newsletters, events, job postings, and routine link checks.
+2.  Oversee timely updates to content on the chapter’s website, including MR educational series, newsletters, events, job postings, and routine link checks.
 
-3. Collaborate with the chapter’s executive committee, communicate proposed updates and changes prior to publication to ensure alignment with chapter goals and transparency in content management.
+3.  Collaborate with the chapter’s executive committee, communicate proposed updates and changes prior to publication to ensure alignment with chapter goals and transparency in content management.
 
-4. Monitor website traffic and statistics for the chapter’s website, to identify areas for improvement and implement search engine optimisation.
+4.  Monitor website traffic and statistics for the chapter’s website, to identify areas for improvement and implement search engine optimisation.
 
-5. Maintain clear, open, and transparent documentation of website management processes on the Chapter’s GitHub repository (<https://github.com/bicismrm>). This includes roles and responsibilities, protocols, workflows, training materials and style guides, to support knowledge transfer and long-term sustainability.
+5.  Maintain clear, open, and transparent documentation of website management processes on the Chapter’s GitHub repository (<https://github.com/bicismrm>). This includes roles and responsibilities, protocols, workflows, training materials and style guides, to support knowledge transfer and long-term sustainability.
 
-6. Bring forward ideas to enhance the chapter website’s usability, accessibility, and relevance for members. Explore strategic improvements to the website infrastructure, including potential adoption of more flexible or independent management models.
+6.  Bring forward ideas to enhance the chapter website’s usability, accessibility, and relevance for members. Explore strategic improvements to the website infrastructure, including potential adoption of more flexible or independent management models.
 
 ## Term Length
 
@@ -37,11 +37,11 @@ Approximately 5-10 hours per month. Actual time commitment may vary based on wor
 
 To the British & Irish Chapter:
 
-- The Chapter President
-- Designated Executive Committee members with relevant experience
+-   The Chapter President
+-   Designated Executive Committee members with relevant experience
 
 To the ISMRM central office:
 
-- Director of IT & Web
-- Director of Global Marketing and Communications
-- IT & Web Coordinator
+-   Director of IT & Web
+-   Director of Global Marketing and Communications
+-   IT & Web Coordinator
