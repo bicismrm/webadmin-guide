@@ -134,7 +134,7 @@
     "href": "workflows.html#landing-page",
     "title": "Workflows",
     "section": "Landing Page",
-    "text": "Landing Page\n\nAnnouncements\nThe most common type of announcement is the Chapter’s Annual Meeting.\n\n\n\n\n\n\nImportant\n\n\n\nDates and venues for pre-conference workshops may differ from the main meeting and should be clearly highlighted to avoid confusion.\n\n\n\nConfirm key details with the annual meeting organiser, including:\n\n\nMeeting dates\n\nVenue information\n\nAny pre-conference workshops\n\nThe dedicated meeting website, usually hosted by the organising institution\n\n\nDraft an announcement for the meeting chair to review and approve.\n\n\nKeep the content brief and concise.\nsignpost visitors to the dedicated meeting website for further details and updates.\n\n\n\nFeatured Education Talks\nThis section on the landing page contains:\n\nA hyperlink to the MR Education Series page.\nA media slider displaying cover images from recent education talks.\n\n\n\n\n\n\n\nNote\n\n\n\nFor instructions on maintaining the MR Education Series page, see MR Education Series.\n\n\nPlease follow the steps below to update the media slides on the landing page.\n\nUse your browser’s Developer Tools to locate the cover image element and the corresponding Vimeo video link for the new education talk.\nSave a copy of the cover image offline. Rename the image file using the following convention:\nmr-education-{YYYY}-{MM}-{DD}-cover The following snippet may be useful to serve as a template for this workflow:\nImage x\nmr-education-{YYYY}-{MM}-{DD}-cover\nURL: https://player.vimeo.com/video/&lt;vimeo-id&gt;\nUpload the cover image to the media library.\nIn the media slides element, create a duplicate of an existing media slide entry.\nReplace the existing image with the new cover image.\nUpdate the embedded video URL with the correct Vimeo link.\n\n\n\nNewsletter\nThe official name for our chapter’s newsletter is Positive Spin. A hyperlink is displayed on the first line for subscribing to the newsletter, followed by a static image showing the table of contents for the current issue, and a hyperlink to the Newsletter Archive at the bottom of the section.\n\n\n\n\n\n\nNote\n\n\n\nThe archive page only includes newsletters published up to 16 April 2020.\n\n\nEach time a new issue is released:\n\nCapture a screenshot of the table of contents.\nAdjust image contrast as needed to optimise readability on the landing page.\nReplace the existing image with the updated screenshot.\n\n\n\nPrize, Awards and Funding\nTo be added.\n\n\nPast Chapter Meetings\n\n\n\n\n\n\nNote\n\n\n\nThis section is scheduled for removal. Users are directed to the Events page via the BIC Menu and Navigation Bar.\n\n\n\nInclude bullet points for quick access to past Chapter Meeting Programmes and Postgraduate Symposium Programmes.\nA hyperlink at the end provided access to the Events page to access the full events archive.",
+    "text": "Landing Page\n\nAnnouncements\nThe most common type of announcement is the Chapter’s Annual Meeting.\n\n\n\n\n\n\nImportant\n\n\n\nDates and venues for pre-conference workshops may differ from the main meeting and should be clearly highlighted to avoid confusion.\n\n\n\nConfirm key details with the annual meeting organiser, including:\n\n\nMeeting dates\n\nVenue information\n\nAny pre-conference workshops\n\nThe dedicated meeting website, usually hosted by the organising institution\n\n\nDraft an announcement for the meeting chair to review and approve.\n\n\nKeep the content brief and concise.\nsignpost visitors to the dedicated meeting website for further details and updates.\n\n\n\nFeatured Education Talks\nThis section on the landing page contains:\n\nA hyperlink to the MR Education Series page.\nA media slider displaying cover images from recent education talks.\n\n\n\n\n\n\n\nNote\n\n\n\nFor instructions on maintaining the MR Education Series page, see MR Education Series.\n\n\nPlease follow the steps below to update the media slides on the landing page.\n\nUse your browser’s Developer Tools to locate the cover image element and the corresponding Vimeo video link for the new education talk.\nSave a copy of the cover image offline. Rename the image file using the following convention:\nmr-education-{YYYY}-{MM}-{DD}-cover The following snippet may be useful to serve as a template for this workflow:\nImage x\nmr-education-{YYYY}-{MM}-{DD}-cover\nURL: https://player.vimeo.com/video/&lt;vimeo-id&gt;\nUpload the cover image to the media library.\nIn the media slides element, create a duplicate of an existing media slide entry.\nReplace the existing image with the new cover image.\nUpdate the embedded video URL with the correct Vimeo link.\n\n\n\nNewsletters\nThe official name for our chapter’s newsletter is Positive Spin. A hyperlink is displayed on the first line for subscribing to the newsletter, followed by a static image showing the table of contents for the current issue, and a hyperlink to the Newsletter Archive at the bottom of the section.\n\n\n\n\n\n\nNote\n\n\n\nThe current Newsletter archive is an external link to the chapter’s Mailchimp archive, which contains newsletters published up to 16 April 2020.\n\n\nEach time a new issue is released:\n\nCapture a screenshot of the table of contents.\nAdjust image contrast as needed to optimise readability on the landing page.\nReplace the existing image with the updated screenshot.\n\n\n\nPrize, Awards and Funding\nTo be added.\n\n\nPast Chapter Meetings\n\n\n\n\n\n\nNote\n\n\n\nThis section is scheduled for removal. Users are directed to the Events page via the BIC Menu and Navigation Bar.\n\n\n\nInclude bullet points for quick access to past Chapter Meeting Programmes and Postgraduate Symposium Programmes.\nA hyperlink at the end provided access to the Events page to access the full events archive.",
     "crumbs": [
       "Workflows"
     ]
@@ -257,6 +257,36 @@
     "text": "Footnotes\n\n\nThis style guide for the Chapter’s website builds on best practices and guidance from the University of Southampton Digital UX Team and Editorial Team and the University Hospital Southampton Communications Team.↩︎",
     "crumbs": [
       "Style Guides"
+    ]
+  },
+  {
+    "objectID": "workflows.html#site-map",
+    "href": "workflows.html#site-map",
+    "title": "Workflows",
+    "section": "Site Map",
+    "text": "Site Map\n\n\n\nChapter website site map and page status (January 2026)",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
+    "objectID": "workflows.html#global-elements",
+    "href": "workflows.html#global-elements",
+    "title": "Workflows",
+    "section": "Global Elements",
+    "text": "Global Elements\n\nHeader and Footer\n\n\n\n\n\n\nImportant\n\n\n\nThe header and footer are maintained by the ISMRM central office.\n\n\n\n\n\nISMRM Header (January 2026)\n\n\n\n\n\nISMRM Footer (January 2026)\n\n\n\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nThe section under the “BIC Menu” is editable. Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.\n\n\n\nNavigation Bar\n\n\n\n\n\n\nImportant\n\n\n\nThe chapter navigation bar is maintained by the ISMRM central office.\n\n\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\n\n\n\nChapter’s navigation bar (January 2026)\n\n\n\nThe navigation bar is not sticky, i.e., it does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
+    "objectID": "workflows.html#education-archive",
+    "href": "workflows.html#education-archive",
+    "title": "Workflows",
+    "section": "Education Archive",
+    "text": "Education Archive\nTo be added.",
+    "crumbs": [
+      "Workflows"
     ]
   }
 ]

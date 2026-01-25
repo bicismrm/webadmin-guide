@@ -7,6 +7,10 @@ format:
 
 This page outlines the protocols and workflows for managing our chapter’s website, to support clear, open, and transparent operations for webite managers and contributors, ensuring consistency and continuity in maintaining the website.
 
+## Site Map
+
+![Chapter website site map and page status (January 2026)](img/site-map-jan-2026.png)
+
 ## Admin Portal
 
 1.  Go to the admin login page: <https://bic.ismrm.org/wp-login.php>
@@ -18,7 +22,9 @@ If you are unsure of your credentials or experience login issues, contact the IS
 
 3.  After logging in, you will see the WordPress dashboard. Use the left-hand menu to navigate to Pages, Posts, or other sections as needed.
 
-## Header and Footer
+## Global Elements
+
+### Header and Footer
 
 ::: callout-important
 The header and footer are maintained by the ISMRM central office.
@@ -31,7 +37,7 @@ The header and footer are maintained by the ISMRM central office.
 - Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 - **The section under the “BIC Menu” is editable.** Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
-## Navigation Bar
+### Navigation Bar
 
 ::: callout-important
 The chapter navigation bar is maintained by the ISMRM central office.
@@ -109,12 +115,12 @@ Please follow the steps below to update the media slides on the landing page.
 
 6.  Update the embedded video URL with the correct Vimeo link.
 
-### Newsletter
+### Newsletters
 
 The official name for our chapter's newsletter is **Positive Spin**. A hyperlink is displayed on the first line for subscribing to the newsletter, followed by a static image showing the table of contents for the current issue, and a hyperlink to the [Newsletter Archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd) at the bottom of the section.
 
 ::: callout-note
-The archive page only includes newsletters published up to **16 April 2020**.
+The current Newsletter archive is an external link to the chapter’s [Mailchimp archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd), which contains newsletters published up to **16 April 2020**.
 :::
 
 Each time a new issue is released:
@@ -236,6 +242,10 @@ Schedules for upcoming education series are usually announced in the following m
 1.  Send a reminder email to the person responsible for the video recordings, asking them to share the files with the IT & Web coordinator at the ISMRM central office.
 
 2.  The IT & Web coordinator will upload the recordings and share the video links once they are available.
+
+## Education Archive
+
+To be added.
 
 ## Jobs
 
