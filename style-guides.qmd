@@ -163,16 +163,16 @@ filters:
 
 ![](img/BIC-ISMRM-logo.jpg)
 
-- The Chapter logo is designed by the ISMRM Global Marketing and Communications team.
-- The Chapter logo is the official visual identity of the Chapter and should be used to represent the Chapter in all formal contexts.
+-   The Chapter logo is designed by the ISMRM Global Marketing and Communications team.
+-   The Chapter logo is the official visual identity of the Chapter and should be used to represent the Chapter in all formal contexts.
 
 ### Newsletter Logo
 
 ![](img/Positive-Spin-logo.jpg)
 
-- The Newsletter logo is *derived* from the Chapter logo (appeared in the bottom-right corner of the Newsletter logo).
-- The Newsletter logo must be used as the official identifier for all Chapter newsletter communications.
-- When both the Chapter logo and the Newsletter logo could be displayed together, the Newsletter logo takes precedence, and the Chapter logo should be omitted to avoid visual duplication.
+-   The Newsletter logo is *derived* from the Chapter logo (appeared in the bottom-right corner of the Newsletter logo).
+-   The Newsletter logo must be used as the official identifier for all Chapter newsletter communications.
+-   When both the Chapter logo and the Newsletter logo could be displayed together, the Newsletter logo takes precedence, and the Chapter logo should be omitted to avoid visual duplication.
 
 ## Templates
 

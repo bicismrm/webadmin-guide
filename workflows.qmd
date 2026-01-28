@@ -117,17 +117,25 @@ Please follow the steps below to update the media slides on the landing page.
 
 ### Newsletters
 
-The official name for our chapter's newsletter is **Positive Spin**. A hyperlink is displayed on the first line for subscribing to the newsletter, followed by a static image showing the table of contents for the current issue, and a hyperlink to the [Newsletter Archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd) at the bottom of the section.
+The official name for our chapter's newsletter is **Positive Spin**. 
+
+- A hyperlink is displayed on the first line for subscribing to the newsletter.  
+- Two static images are displayed: one for the current issue, followed by one for the most recent past issue.  
+- A hyperlink to the [Newsletter Archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd) is displayed at the bottom of the section.
 
 ::: callout-note
 The current Newsletter archive is an external link to the chapter’s [Mailchimp archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd), which contains newsletters published up to **16 April 2020**.
 :::
 
+![Newsletters section on the landing page (January 2026)](img/landing-newsletters.png)
+
 Each time a new issue is released:
 
-1.  Capture a screenshot of the table of contents.
-2.  Adjust image contrast as needed to optimise readability on the landing page.
-3.  Replace the existing image with the updated screenshot.
+1. Capture a screenshot of the cover page, including the welcome statement and, if space permits, the table of contents.
+2. Adjust image contrast as needed to optimise readability on the landing page.
+3. Duplicate the visual asset for the current issue, replace the image with the new screenshot, and update the hyperlink to point to the latest issue.
+4. Duplicate the text element associated with the current issue and update it to reflect the new issue (e.g. January 2026).
+5. Remove the visual and text assets for the older past issue.
 
 ### Prizes, Awards and Funding
 
