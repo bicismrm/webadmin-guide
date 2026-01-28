@@ -133,15 +133,6 @@ Each time a new issue is released:
 
 To be added.
 
-### Past Chapter Meetings
-
-::: callout-note
-This section is scheduled for removal. Users are directed to the [Events page](https://bic.ismrm.org/events/) via the **BIC Menu** and **Navigation Bar**.
-:::
-
-- Include bullet points for quick access to past Chapter Meeting Programmes and Postgraduate Symposium Programmes.
-- A hyperlink at the end provided access to the [Events](https://bic.ismrm.org/events/) page to access the full events archive.
-
 ## Committee Members
 
 ### Current Members
