@@ -129,9 +129,14 @@ Each time a new issue is released:
 2.  Adjust image contrast as needed to optimise readability on the landing page.
 3.  Replace the existing image with the updated screenshot.
 
-### Prize, Awards and Funding
+### Prizes, Awards and Funding
 
-To be added.
+This section displays Bill Moore Lecture Recipients, Mansfield Research Innovation Award Recipients, and New Initiative \& Public Engagement Funding in a slideshow.
+
+![Prizes, Awards and Funding section on the landing page (January 2026)](img/landing-funding.png){fig-align="center"}
+
+- Visual assets are created using the [social media template](style-guides.html#social-media) provided by the ISMRM Central Office.
+- Replace existing slides with updated visuals when new recipients or funding rounds are announced.
 
 ## Committee Members
 
