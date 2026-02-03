@@ -90,6 +90,16 @@
     ]
   },
   {
+    "objectID": "workflows.html#site-map",
+    "href": "workflows.html#site-map",
+    "title": "Workflows",
+    "section": "Site Map",
+    "text": "Site Map\n\n\n\nChapter website site map and page status (January 2026)",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
     "objectID": "workflows.html#admin-portal",
     "href": "workflows.html#admin-portal",
     "title": "Workflows",
@@ -100,21 +110,11 @@
     ]
   },
   {
-    "objectID": "workflows.html#header-and-footer",
-    "href": "workflows.html#header-and-footer",
+    "objectID": "workflows.html#global-elements",
+    "href": "workflows.html#global-elements",
     "title": "Workflows",
-    "section": "Header and Footer",
-    "text": "Header and Footer\n\n\n\n\n\n\nImportant\n\n\n\nThe header and footer are maintained by the ISMRM central office.\n\n\n\n\n\nISMRM Header (January 2026)\n\n\n\n\n\nISMRM Footer (January 2026)\n\n\n\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nThe section under the “BIC Menu” is editable. Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "workflows.html#navigation-bar",
-    "href": "workflows.html#navigation-bar",
-    "title": "Workflows",
-    "section": "Navigation Bar",
-    "text": "Navigation Bar\n\n\n\n\n\n\nImportant\n\n\n\nThe chapter navigation bar is maintained by the ISMRM central office.\n\n\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\n\n\n\nChapter’s navigation bar (January 2026)\n\n\n\nThe navigation bar is not sticky, i.e., it does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
+    "section": "Global Elements",
+    "text": "Global Elements\n\nHeader and Footer\n\n\n\n\n\n\nImportant\n\n\n\nThe header and footer are maintained by the ISMRM central office.\n\n\n\n\n\nISMRM Header (January 2026)\n\n\n\n\n\nISMRM Footer (January 2026)\n\n\n\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nThe section under the “BIC Menu” is editable. Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.\n\n\n\nNavigation Bar\n\n\n\n\n\n\nImportant\n\n\n\nThe chapter navigation bar is maintained by the ISMRM central office.\n\n\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\n\n\n\nChapter’s navigation bar (January 2026)\n\n\n\nThe navigation bar is not sticky, i.e., it does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
     "crumbs": [
       "Workflows"
     ]
@@ -180,6 +180,16 @@
     ]
   },
   {
+    "objectID": "workflows.html#education-archive",
+    "href": "workflows.html#education-archive",
+    "title": "Workflows",
+    "section": "Education Archive",
+    "text": "Education Archive\nTo be added.",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
     "objectID": "workflows.html#jobs",
     "href": "workflows.html#jobs",
     "title": "Workflows",
@@ -224,7 +234,7 @@
     "href": "style-guides.html#branding",
     "title": "Style Guides",
     "section": "Branding",
-    "text": "Branding\n\nChapter Logo\n\n\nThe Chapter logo is designed by the ISMRM Global Marketing and Communications team.\nThe Chapter logo is the official visual identity of the Chapter and should be used to represent the Chapter in all formal contexts.\n\n\n\nNewsletter Logo\n\n\nThe Newsletter logo is derived from the Chapter logo (appeared in the bottom-right corner of the Newsletter logo).\nThe Newsletter logo must be used as the official identifier for all Chapter newsletter communications.\nWhen both the Chapter logo and the Newsletter logo could be displayed together, the Newsletter logo takes precedence, and the Chapter logo should be omitted to avoid visual duplication.",
+    "text": "Branding\n\nChapter Logo\n\n\nThe Chapter logo is designed by the ISMRM Global Marketing and Communications team.\nThe Chapter logo is the official visual identity of the Chapter and should be used to represent the Chapter in all formal contexts.\n\n\n\nNewsletter Logo\n\n\nThe Newsletter logo is derived from the Chapter logo (appeared in the bottom-right corner of the Newsletter logo).\nThe Newsletter logo must be used as the official identifier for all Chapter newsletter communications.\nWhen both the Chapter logo and the Newsletter logo could be displayed together, the Newsletter logo takes precedence, and the Chapter logo should be omitted to avoid visual duplication.\n\n\n\nTypography\nLato is the official typeface for the chapter and should be used for all site elements, including page titles, headings, navigation, and body content.\n\n\n\nTypographic hierarchy for the Chapter website’s headings (h1-h6) and body paragraph.",
     "crumbs": [
       "Style Guides"
     ]
@@ -244,7 +254,7 @@
     "href": "style-guides.html#accessibility",
     "title": "Style Guides",
     "section": "Accessibility",
-    "text": "Accessibility",
+    "text": "Accessibility\nThis section aims to provide guidance to ensure the Chapter website remains inclusive and easy to read for all users.\n\nColor and Contrast\n\nThe designated primary font color for all headings is #192f5c, providing a high contrast ratio against white backgrounds that ensures the text remains readable across various devices and lighting conditions.",
     "crumbs": [
       "Style Guides"
     ]
@@ -257,36 +267,6 @@
     "text": "Footnotes\n\n\nThis style guide for the Chapter’s website builds on best practices and guidance from the University of Southampton Digital UX Team and Editorial Team and the University Hospital Southampton Communications Team.↩︎",
     "crumbs": [
       "Style Guides"
-    ]
-  },
-  {
-    "objectID": "workflows.html#site-map",
-    "href": "workflows.html#site-map",
-    "title": "Workflows",
-    "section": "Site Map",
-    "text": "Site Map\n\n\n\nChapter website site map and page status (January 2026)",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "workflows.html#global-elements",
-    "href": "workflows.html#global-elements",
-    "title": "Workflows",
-    "section": "Global Elements",
-    "text": "Global Elements\n\nHeader and Footer\n\n\n\n\n\n\nImportant\n\n\n\nThe header and footer are maintained by the ISMRM central office.\n\n\n\n\n\nISMRM Header (January 2026)\n\n\n\n\n\nISMRM Footer (January 2026)\n\n\n\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nThe section under the “BIC Menu” is editable. Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.\n\n\n\nNavigation Bar\n\n\n\n\n\n\nImportant\n\n\n\nThe chapter navigation bar is maintained by the ISMRM central office.\n\n\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\n\n\n\nChapter’s navigation bar (January 2026)\n\n\n\nThe navigation bar is not sticky, i.e., it does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
-    "crumbs": [
-      "Workflows"
-    ]
-  },
-  {
-    "objectID": "workflows.html#education-archive",
-    "href": "workflows.html#education-archive",
-    "title": "Workflows",
-    "section": "Education Archive",
-    "text": "Education Archive\nTo be added.",
-    "crumbs": [
-      "Workflows"
     ]
   }
 ]

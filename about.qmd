@@ -3,6 +3,14 @@ title: "About"
 format: html
 ---
 
+```{=html}
+<head>
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+```
+
 The Web Manager serves as the chapter’s main liaison with the ISMRM central office on all matters related to the chapter website, ensuring the website serves as an accessible and up-to-date resource for members and also aligns with the central office’s technical and branding standards.
 
 The Chapter’s current Web Manager is **Yukai Zou**, who can be contacted at [bicwebmaster\@ismrm.org](mailto:bicwebmaster@ismrm.org).
