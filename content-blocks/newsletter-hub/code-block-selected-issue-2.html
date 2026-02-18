@@ -1,0 +1,48 @@
+<!-- Updated Script that supports drop-down and open new tab -->
+<script>
+  const HEADER_OFFSET = 350; // height of sticky header in px
+
+  // Helper: load URL into iframe and scroll into view
+  function loadIntoFrame(url) {
+    if (!url) return;
+
+    const iframe = document.getElementById('contentFrame');
+    const newTabLink = document.getElementById('openInNewTabLink');
+
+    if (!iframe) return;
+
+    // Update iframe src
+    iframe.src = url;
+
+    // Update "open in new tab" link
+    if (newTabLink) {
+      newTabLink.href = url;
+    }
+
+    // Scroll the iframe into view with an offset
+    requestAnimationFrame(() => {
+      const iframeTop = iframe.getBoundingClientRect().top + window.pageYOffset;
+      window.scrollTo({
+        top: iframeTop - HEADER_OFFSET,
+        behavior: 'smooth'
+      });
+    });
+  }
+
+  // Selecting from the dropdown
+  const select = document.getElementById('issue-select');
+  if (select) {
+
+    // Load FIRST option by default on page load
+    const defaultOption = select.options[0];
+    if (defaultOption && defaultOption.value) {
+      select.selectedIndex = 0;
+      loadIntoFrame(defaultOption.value);
+    }
+
+    // When user changes selection
+    select.addEventListener('change', function () {
+      loadIntoFrame(this.value);
+    });
+  }
+</script>
