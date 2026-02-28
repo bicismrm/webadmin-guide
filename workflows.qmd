@@ -129,10 +129,10 @@ The official name for our chapter's newsletter is **Positive Spin**.
 
 - A hyperlink is displayed on the first line for subscribing to the newsletter.  
 - Two static images are displayed: one for the current issue, followed by one for the most recent past issue.  
-- A hyperlink to the [Newsletter Archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd) is displayed at the bottom of the section.
+- A hyperlink to the [Newsletter Hub](https://bic.ismrm.org/newsletter-hub/) is displayed at the bottom of the section.
 
 ::: callout-note
-The current Newsletter archive is an external link to the chapter’s [Mailchimp archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd), which contains newsletters published up to **16 April 2020**.
+The Chapter has a [Mailchimp archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd), which contains newsletters published up to **16 April 2020**.
 :::
 
 ![Newsletters section on the landing page (February 2026)](img/landing-newsletters.png)
