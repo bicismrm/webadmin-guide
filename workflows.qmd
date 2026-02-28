@@ -73,20 +73,20 @@ The navigation bar replicates the **BIC Menu** in the [Header section](#header-a
 
 ### Announcements
 
-The most common type of announcement is the Chapter’s Annual Meeting.
+The most common types of announcement are the **Chapter’s Annual Meeting** and the **Postgraduate Symposium**.
 
 ::: callout-important
 Dates and venues for pre-conference workshops may differ from the main meeting and should be clearly highlighted to avoid confusion.
 :::
 
-1.  Confirm key details with the annual meeting organiser, including:
+1.  Confirm key details with the organiser (annual meeting chair, or student representatives), including:
 
 -   Meeting dates\
 -   Venue information\
 -   Any pre-conference workshops\
 -   The dedicated meeting website, usually hosted by the organising institution
 
-2.  Draft an announcement for the meeting chair to review and approve.
+2.  Draft an announcement for the organiser to review and approve.
 
 -   Keep the content brief and concise.
 -   signpost visitors to the dedicated meeting website for further details and updates.
