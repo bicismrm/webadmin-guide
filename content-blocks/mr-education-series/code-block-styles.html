@@ -1,21 +1,47 @@
 <style>
-table.bic-ed {
-	border-collapse: collapse;
-	border: 1px solid #19305c;
-	width: 98%;
-	margin: 0 auto 1em;
-}
-table.bic-ed th {
-	background-color: #19305c;
-	color: #fff;
-	padding: 0.55em;
-}
-table.bic-ed td {
-	border: 1px solid #19305c;
-	padding: 0.5em 0.66em;
-	vertical-align: top;
-}
-table.bic-ed td p,table.bic-ed th p {
-	margin-bottom: 0;
-}
+	/* Inherited From Education Series */
+	table.bic-ed {
+		border-collapse: collapse;
+		border: 1px solid #19305c;
+		width: 98%;
+		margin: 0 auto 1em;
+	}
+	table.bic-ed th {
+		background-color: #19305c;
+		color: #fff;
+		padding: 0.55em;
+	}
+	table.bic-ed td {
+		border: 1px solid #19305c;
+		padding: 0.5em 0.66em;
+		vertical-align: top;
+		text-align: center;
+	}
+	table.bic-ed td p,table.bic-ed th p {
+		margin-bottom: 0;
+	}
+
+	/* MR Education Archive: Searchable Table */
+	table.bic-ed .social i {
+      --awb-circlebordersize: 1px;
+      --awb-font-size: 10.56px;
+      --awb-width: 21.12px;
+      --awb-height: 21.12px;
+      --awb-line-height: 19.12px;
+      --awb-margin-right: 6px;
+    }
+    tr.hidden {
+      display: none;
+    }
+
+	/* Style for filtering */
+	a[data-category] {
+     text-decoration: underline;
+     font-weight: normal;
+     transition: all 0.15s ease;
+	}
+   a[data-category]:hover {
+     text-decoration: none !important;
+     font-weight: bold;
+   }
 </style>
