@@ -195,6 +195,19 @@ This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual
 -   If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
 -   For older or unclear entries, reach out to the chapter's Executive Committee for further details.
 
+## Join
+
+::: callout-important
+Starting from April 2026, the Chapter’s membership application process is transitioning to the [chapter page in the ISMRM One Community Hub](https://community.ismrm.org/communities/community-home?communitykey=e34dd25e-668b-4d6a-9b93-019d2c01ff55).
+:::
+
+This page contains information regarding membership requirements and the application process, including:
+
+- A link to subscribe to the chapter’s mailing list for the latest updates.
+- An overview on benefits,
+- Detailed information on membership types, eligibility, and associated costs.
+- Instructions on how to join the chapter.
+
 ## Events
 
 This page serves as an archive of past events hosted or sponsored by the Chapter.
