@@ -53,7 +53,7 @@ The chapter navigation bar is maintained by the ISMRM central office.
 
 The navigation bar replicates the **BIC Menu** in the [Header section](#header-and-footer) to provide easy access to chapter pages.
 
-![Chapter's navigation bar (March 2026)](img/chapter-navbar-2026Jan.png)
+![Chapter's navigation bar (March 2026)](img/chapter-navbar-2026Apr.png)
 
 -   The navigation bar is **not sticky**, i.e., it does not remain fixed while scrolling.
 -   On narrow screens or mobile devices, the navigation bar collapses into a **hamburger menu** (≡).
@@ -187,9 +187,9 @@ This page was previously called “Funding and Recognition.”
 
 ### New Initiative & Public Engagement Fund
 
-- Funding opportunity for educational, research, and public engagement activities
-- Funded activities are treated as Sponsored Events. [Follow the process](#sponsored-events) to archive the programme in Events page.
-- Refer to the chapter’s mailing list or [past newsletters](https://bic.ismrm.org/newsletter-hub) to locate past recipients.
+-   Funding opportunity for educational, research, and public engagement activities
+-   Funded activities are treated as Sponsored Events. [Follow the process](#sponsored-events) to archive the programme in Events page.
+-   Refer to the chapter’s mailing list or [past newsletters](https://bic.ismrm.org/newsletter-hub) to locate past recipients.
 
 ### Bill Moore Lecture Recipients
 
@@ -220,6 +220,14 @@ This page contains information regarding membership requirements and the applica
 -   Detailed information on membership types, eligibility, and associated costs.
 -   Instructions on how to join the chapter.
 
+## Newsletter Hub
+
+::: callout-note
+For conciseness, this is called "Newsletters" on Header and Navigation Bar.
+:::
+
+To be added.
+
 ## Events
 
 This page serves as an archive of past events hosted or sponsored by the Chapter.
@@ -244,7 +252,7 @@ After the postgraduate symposium has concluded, confirm the following details:
 -   Location of the event (city or virtual)\
 -   Final version of the symposium programme
 
-### Sponsored Events
+### Sponsored Events {#sponsored-events}
 
 The primary liaison for maintaining this section is the **recipient of the New Initiative & Public Engagement Fund**.
 
