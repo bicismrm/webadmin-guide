@@ -3,3 +3,4 @@
 .Rhistory
 webadmin-guide.Rproj
 **/*.quarto_ipynb
+.positai

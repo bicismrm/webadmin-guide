@@ -17,16 +17,16 @@ This page provides detailed guidance on the written style used across our chapte
 
 These guiding principles aim to ensure written content remains clear, accessible, and user-focused:
 
--   **Write for scanning**: Online readers tend to scan rather than read every word. On average, they read about only 20% of the text on a page.
--   **User-oriented**: Write content that helps visitors to quickly and easily complete the specific tasks they come for.
--   **Use plain language**: Keep language simple and direct to make information easy to understand and accessible to all users.
--   **Guide the reader**: Use clear headings, signposts, and answer unasked questions to make content more engaging and relevant.
--   **Highlight key information**: Place important messages at the top of the page to capture visitor's attention.
--   **Use credible sources**: Provide accurate information and support with authoritative references to to back up the content and build trust.
+- **Write for scanning**: Online readers tend to scan rather than read every word. On average, they read about only 20% of the text on a page.
+- **User-oriented**: Write content that helps visitors to quickly and easily complete the specific tasks they come for.
+- **Use plain language**: Keep language simple and direct to make information easy to understand and accessible to all users.
+- **Guide the reader**: Use clear headings, signposts, and answer unasked questions to make content more engaging and relevant.
+- **Highlight key information**: Place important messages at the top of the page to capture visitor's attention.
+- **Use credible sources**: Provide accurate information and support with authoritative references to to back up the content and build trust.
 
 The LinkedIn Learning course below is a helpful resource:
 
--   [Creating Online Content](https://www.linkedin.com/learning/creating-online-content)
+- [Creating Online Content](https://www.linkedin.com/learning/creating-online-content)
 
 ### A to Z
 
@@ -71,6 +71,7 @@ accordion:
             \<h5\>Dates\</h5\>
     - header: E
       body: \<h5\>early career researcher (ECR)\</h5\>
+            \<h5\>eStore\</h5\>
             \<h5\>Email\</h5\>
               \<p\>Email is not hyphenated.\</p\>
             \<h5\>eg, etc and ie\</h5\>
@@ -171,21 +172,21 @@ filters:
 
 ![](img/BIC-ISMRM-logo.jpg)
 
--   The Chapter logo is designed by the ISMRM Global Marketing and Communications team.
--   The Chapter logo is the official visual identity of the Chapter and should be used to represent the Chapter in all formal contexts.
+- The Chapter logo is designed by the ISMRM Global Marketing and Communications team.
+- The Chapter logo is the official visual identity of the Chapter and should be used to represent the Chapter in all formal contexts.
 
 ### Newsletter Logo
 
 ![](img/Positive-Spin-logo.jpg)
 
--   The Newsletter logo is *derived* from the Chapter logo (appeared in the bottom-right corner of the Newsletter logo).
--   The Newsletter logo must be used as the official identifier for all Chapter newsletter communications.
--   When both the Chapter logo and the Newsletter logo could be displayed together, the Newsletter logo takes precedence, and the Chapter logo should be omitted to avoid visual duplication.
+- The Newsletter logo is *derived* from the Chapter logo (appeared in the bottom-right corner of the Newsletter logo).
+- The Newsletter logo must be used as the official identifier for all Chapter newsletter communications.
+- When both the Chapter logo and the Newsletter logo could be displayed together, the Newsletter logo takes precedence, and the Chapter logo should be omitted to avoid visual duplication.
 
 ### Displaying Sponsor Logos
 
--   There are no mandatory size requirements for logos of sponsors at different levels.
--   When displaying multiple sponsor logos, ensure all images have consistent dimensions.
+- There are no mandatory size requirements for logos of sponsors at different levels.
+- When displaying multiple sponsor logos, ensure all images have consistent dimensions.
 
 ### Typography
 
@@ -199,16 +200,16 @@ Please find below a collection of marketing templates, orignally developed by th
 
 ### Presentation
 
--   [Download Overview Powerpoint template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Overview-PPT-Slides-Template-Final-23.08.25.pptx)
--   [Download Walk-in Slides template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Walk-in-Slides-Template-23.08.25.pptx)
+- [Download Overview Powerpoint template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Overview-PPT-Slides-Template-Final-23.08.25.pptx)
+- [Download Walk-in Slides template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapter-Walk-in-Slides-Template-23.08.25.pptx)
 
 ### Flyer
 
--   [Download Flyer template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Flyer-Template-23.08.25.pptx)
+- [Download Flyer template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Flyer-Template-23.08.25.pptx)
 
 ### Social Media
 
--   [Download Social Media template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Social-Media-Final-23.08.25.pptx)
+- [Download Social Media template](https://bic.ismrm.org/wp-content/uploads/2025/08/BIC-ISMRM-Chapters-Social-Media-Final-23.08.25.pptx)
 
 ## Accessibility
 
@@ -216,4 +217,4 @@ This section aims to provide guidance to ensure the Chapter website remains incl
 
 ### Color and Contrast
 
--   The designated primary font color for all headings is `#192f5c`, providing a high contrast ratio against white backgrounds that ensures the text remains readable across various devices and lighting conditions.
+- The designated primary font color for all headings is `#192f5c`, providing a high contrast ratio against white backgrounds that ensures the text remains readable across various devices and lighting conditions.

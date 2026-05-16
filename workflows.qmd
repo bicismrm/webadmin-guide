@@ -17,7 +17,7 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 
 ## Site Map
 
-![Chapter website site map and page status (April 2026)](img/site-map-2026Apr.png)
+![Chapter website site map and page status (May 2026)](img/site-map-2026Apr.png)
 
 ## Admin Portal
 
@@ -32,30 +32,26 @@ If you are unsure of your credentials or experience login issues, contact the IS
 
 ## Global Elements
 
-### Header and Footer {#header-and-footer}
-
 ::: callout-important
-The header and footer are maintained by the ISMRM central office.
+Global elements are maintained by the ISMRM central office.
 :::
 
-![ISMRM Header (April 2026)](img/ismrm-header-2026Jan.png)
+### Header and Footer {#header-and-footer}
 
-![ISMRM Footer (April 2026)](img/ismrm-footer-2026Jan.png)
+![ISMRM Header (May 2026)](img/ismrm-header-2026Jan.png)
+
+![ISMRM Footer (May 2026)](img/ismrm-footer-2026Jan.png)
 
 -   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 -   **The section under the “BIC Menu” is editable.** Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
 ### Navigation Bar
 
-::: callout-important
-The chapter navigation bar is maintained by the ISMRM central office.
-:::
-
 The navigation bar replicates the **BIC Menu** in the [Header section](#header-and-footer) to provide easy access to chapter pages.
 
-![Chapter's navigation bar (April 2026)](img/chapter-navbar-2026Apr.png)
+![Chapter's navigation bar (May 2026)](img/chapter-navbar-2026Apr.png)
 
--   The navigation bar is **not sticky**, i.e., it does not remain fixed while scrolling.
+-   The navigation bar is **not sticky**, i.e., it stays on top and does not remain fixed while scrolling.
 -   On narrow screens or mobile devices, the navigation bar collapses into a **hamburger menu** (≡).
 -   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
@@ -137,7 +133,7 @@ The official name for our chapter's newsletter is **Positive Spin**.
 The Chapter has a [Mailchimp archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd), which contains newsletters published up to **16 April 2020**.
 :::
 
-![Newsletters section on the landing page (April 2026)](img/landing-newsletters.png)
+![Newsletters section on the landing page (May 2026)](img/landing-newsletters.png)
 
 Each time a new issue is released:
 
@@ -151,7 +147,7 @@ Each time a new issue is released:
 
 This section displays Bill Moore Lecture Recipients, Mansfield Research Innovation Award Recipients, and New Initiative & Public Engagement Funding in a slideshow.
 
-![Prizes, Awards and Funding section on the landing page (April 2026)](img/landing-funding.png){fig-align="center"}
+![Prizes, Awards and Funding section on the landing page (May 2026)](img/landing-funding.png){fig-align="center"}
 
 -   Visual assets are created using the [social media template](style-guides.html#social-media) provided by the ISMRM Central Office.
 -   Replace existing slides with updated visuals when new recipients or funding rounds are announced.
