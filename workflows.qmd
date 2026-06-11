@@ -158,7 +158,7 @@ This section displays Bill Moore Lecture Recipients, Mansfield Research Innovati
 -   Visual assets are created using the [social media template](style-guides.html#social-media) provided by the ISMRM Central Office.
 -   Replace existing slides with updated visuals when new recipients or funding rounds are announced.
 
-## Committee Members
+## Committee
 
 ### Current Members
 
