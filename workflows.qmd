@@ -38,9 +38,9 @@ Global elements are maintained by the ISMRM central office.
 
 ### Header and Footer {#header-and-footer}
 
-![ISMRM Header (May 2026)](img/ismrm-header-2026Jan.png)
+![ISMRM Header (June 2026)](img/ismrm-header-2026Jan.png)
 
-![ISMRM Footer (May 2026)](img/ismrm-footer-2026Jan.png)
+![ISMRM Footer (June 2026)](img/ismrm-footer-2026Jan.png)
 
 -   Minor customisations to the header and footer are allowed in principle, but the core styling must remain intact.
 -   **The section under the “BIC Menu” is editable.** Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
@@ -139,7 +139,7 @@ The official name for our chapter's newsletter is **Positive Spin**.
 The Chapter has a [Mailchimp archive](https://us14.campaign-archive.com/home/?u=1c9cc503b3f3f5c9fe4e18b16&id=13766ba6dd), which contains newsletters published up to **16 April 2020**.
 :::
 
-![Newsletters section on the landing page (May 2026)](img/landing-newsletters.png)
+![Newsletters section on the landing page (June 2026)](img/landing-newsletters.png)
 
 Each time a new issue is released:
 
@@ -271,6 +271,10 @@ After the event has concluded, confirm the following details:
 
 This page contains recent schedules for MR education series, as well as recordings of past MR educational talks.
 
+::: callout-important
+Display only the two most recent seminar series in the main section.
+:::
+
 ### Schedule
 
 Schedules for upcoming education series are usually announced in the following months:
@@ -294,9 +298,33 @@ Schedules for upcoming education series are usually announced in the following m
 
 3.  Categorise each talk in the completed series and integrate them into the table in [Education Archive](#education-archive).
 
+
+Current category list:
+
+- Physics & Engineering  
+- Safety  
+- Cardiovascular  
+- Non-proton MRI  
+- Quantitative MRI (qMRI)  
+- Neuroimaging  
+- General Radiology  
+- Artificial Intelligence (AI)  
+- Pre-clinical MRI  
+- Additional Topics*
+
+\* create new ones when necessary
+
 ### Education Archive {#education-archive}
 
-Visitors can browse the archive either by filtering themes, or entering keywords to quickly locate specific recordings.
+This section contains a searchable table to locate recordings from previous seminar series that are no longer featured in the main MR Education Series schedule. 
+
+Visitors can filtering themes or entering keywords to quickly locate specific talks.
+
+To maintain the table: 
+
+1. Display only the two most recent seminar series in the main section.
+2. When a new series is announced, move earlier series into this archive.
+3. Apply a category to each newly archived talk in the searchable table.
 
 ## Links
 
