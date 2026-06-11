@@ -49,7 +49,7 @@ Global elements are maintained by the ISMRM central office.
 
 The navigation bar replicates the **BIC Menu** in the [Header section](#header-and-footer) to provide easy access to chapter pages.
 
-![Chapter's navigation bar (May 2026)](img/chapter-navbar-2026Apr.png)
+![Chapter's navigation bar (June 2026)](img/chapter-navbar-2026Jun.png)
 
 -   The navigation bar is **not sticky**, i.e., it stays on top and does not remain fixed while scrolling.
 -   On narrow screens or mobile devices, the navigation bar collapses into a **hamburger menu** (≡).
