@@ -17,7 +17,7 @@ This page outlines the protocols and workflows for managing our chapter’s webs
 
 ## Site Map
 
-![Chapter website site map and page status (May 2026)](img/site-map-2026Apr.png)
+![Chapter website site map and page status (June 2026)](img/site-map-2026Jun.png)
 
 ## Admin Portal
 
@@ -86,6 +86,12 @@ Dates and venues for pre-conference workshops may differ from the main meeting a
 
 -   Keep the content brief and concise.
 -   Signpost visitors to the dedicated meeting website for further details and updates.
+
+#### Announcement Example
+
+The following repository provides a reference for implementing chapter scientific meeting announcement:
+
+-   [BIC-ISMRM 2026 Scientific Meeting](https://github.com/bicismrm/bic2026-meeting-registration)
 
 ### Featured Education Talks
 
@@ -291,6 +297,10 @@ Schedules for upcoming education series are usually announced in the following m
 ### Education Archive {#education-archive}
 
 Visitors can browse the archive either by filtering themes, or entering keywords to quickly locate specific recordings.
+
+## Links
+
+To be added.
 
 ## Outreach
 
