@@ -60,6 +60,8 @@ accordion:
     - header: C
       body: \<h5\>Capitalisation\</h5\>
             \<h5\>Captions\</h5\>
+            \<h5\>Chair\</h5\>
+            \<p\>Use Chair when referring to the leadership of the Chapter Committee.\</p\>
             \<h5\>Contractions\</h5\>
             \<h5\>Course/programme/degree\</h5\>
     - header: D
@@ -132,6 +134,8 @@ accordion:
             \<h5\>postdoctoral\</h5\>
             \<h5\>postgraduate\</h5\>
             \<h5\>Program/programme\</h5\>
+            \<h5\>President\</h5\>
+            \<p\>Use President when referring to the leadership of the ISMRM/ISMRT Executive Committee.\</p\>
             \<h5\>Pronouns\</h5\>
             \<p\>Use gender-neutral language wherever possible. 
             Disclosure of pronouns is optional; if a person has 
