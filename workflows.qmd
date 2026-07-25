@@ -335,7 +335,7 @@ External links may be included where they:
 
 1. Serve the UK and Ireland MRI community.
 2. Support MRI research, clinical practice, education, career development, or community engagement.
-3. Are maintained by reputable academic institutions, healthcare organisations, professional societies, professional networks, or established educational providers.
+3. Are maintained by reputable academic institutions, healthcare organisations, professional networks, or established educational providers.
 4. Do not primarily function as commercial advertising or promote a specific product, project, or event.
 5. Provide ongoing value to the MRI community and are expected to remain active and relevant over time.
 
