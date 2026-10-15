@@ -114,7 +114,7 @@
     "href": "workflows.html#global-elements",
     "title": "Workflows",
     "section": "Global Elements",
-    "text": "Global Elements\n\n\n\n\n\n\nImportant\n\n\n\nGlobal elements are maintained by the ISMRM central office.\n\n\n\nHeader and Footer\n\n\n\nISMRM Header (October 2026)\n\n\n\n\n\nISMRM Footer (October 2026)\n\n\n\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nThe section under the “BIC Menu” is editable. Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.\n\n\n\nNavigation Bar\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\n\n\n\nChapter’s navigation bar (October 2026)\n\n\n\nThe navigation bar is not sticky, i.e., it stays on top and does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
+    "text": "Global Elements\n\n\n\n\n\n\nImportant\n\n\n\nGlobal elements are maintained by the ISMRM central office.\n\n\n\nHeader and Footer\n\n\n\nISMRM Header and Footer (October 2026)\n\n\n\nMinor customisations to the header and footer are allowed in principle, but the core styling must remain intact.\nThe section under the “BIC Menu” is editable. Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.\n\n\n\nNavigation Bar\nThe navigation bar replicates the BIC Menu in the Header section to provide easy access to chapter pages.\n\n\n\nChapter’s navigation bar (October 2026)\n\n\n\nThe navigation bar is not sticky, i.e., it stays on top and does not remain fixed while scrolling.\nOn narrow screens or mobile devices, the navigation bar collapses into a hamburger menu (≡).\nAny proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.",
     "crumbs": [
       "Workflows"
     ]
@@ -184,7 +184,7 @@
     "href": "workflows.html#outreach",
     "title": "Workflows",
     "section": "Outreach",
-    "text": "Outreach\nTo be added.",
+    "text": "Outreach\nThe Outreach page provides a dedicated space for bringing together the Chapter’s outreach-related information, including:\n\nInformation and guidance for members interested in applying for the New Initiative & Public Engagement Fund.\nPrevious Sponsored Events, where examples of outreach activities previously supported by the Fund are archived.\n\nFunded activities are treated as Sponsored Events. Follow the process to archive the programme in Events page.\nRefer to the chapter’s mailing list or past newsletters to locate past recipients.",
     "crumbs": [
       "Workflows"
     ]
@@ -301,7 +301,7 @@
     "href": "workflows.html#awards",
     "title": "Workflows",
     "section": "Awards",
-    "text": "Awards\n\n\n\n\n\n\nNote\n\n\n\nThis page was previously called “Funding and Recognition.”\n\n\n\nNew Initiative & Public Engagement Fund\n\nFunding opportunity for educational, research, and public engagement activities\nFunded activities are treated as Sponsored Events. Follow the process to archive the programme in Events page.\nRefer to the chapter’s mailing list or past newsletters to locate past recipients.\n\n\n\nBill Moore Lecture Recipients\n\nRefer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\n\nRecord the recipient’s name and the city of the annual meeting.\nIf any of the details are unclear, confirm with the Chapter’s Executive Committee.\n\n\n\nMansfield Research Innovation Award\n\n\n\n\n\n\nNote\n\n\n\nThis is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.\n\n\n\nCheck the Chapter’s Newsletters - this is typically where the winners are announced.\nIf affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees’ affiliations.\nFor older or unclear entries, reach out to the chapter’s Executive Committee for further details.",
+    "text": "Awards\n\n\n\n\n\n\nNote\n\n\n\nThis page was previously called “Funding and Recognition.”\n\n\n\nBill Moore Lecture Recipients\n\nRefer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\n\nRecord the recipient’s name and the city of the annual meeting.\nIf any of the details are unclear, confirm with the Chapter’s Executive Committee.\n\n\n\nMansfield Research Innovation Award\n\n\n\n\n\n\nNote\n\n\n\nThis is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.\n\n\n\nCheck the Chapter’s Newsletters - this is typically where the winners are announced.\nIf affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees’ affiliations.\nFor older or unclear entries, reach out to the chapter’s Executive Committee for further details.",
     "crumbs": [
       "Workflows"
     ]
