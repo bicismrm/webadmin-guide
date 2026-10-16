@@ -311,7 +311,7 @@
     "href": "workflows.html#newsletter-hub",
     "title": "Workflows",
     "section": "Newsletter Hub",
-    "text": "Newsletter Hub\n\n\n\n\n\n\nNote\n\n\n\nFor conciseness, this is called “Newsletters” on Header and Navigation Bar.\n\n\nTo be added.",
+    "text": "Newsletter Hub\n\n\n\n\n\n\nNote\n\n\n\nFor conciseness, this page is labelled “Newsletters” in the header and navigation bar.\n\n\nThe Newsletters page serves as a central hub for browsing Positive Spin, the Chapter’s newsletter.\n\nAll newsletter issues are organised in reverse chronological order in a drop-down menu on the left-hand panel, making previous issues easier to navigate and find.\nThe selected newsletter is displayed in the reading panel on the right using an &lt;iframe&gt; element.\n\nA direct link to the newsletter is also provided in case the content does not display correctly or scrolling becomes slow in the user’s browser.\n\nThe current and most recent issues are also linked from the Landing Page, within the Newsletters section.",
     "crumbs": [
       "Workflows"
     ]
@@ -332,6 +332,16 @@
     "title": "Workflows",
     "section": "Committee",
     "text": "Committee\n\nCurrent Members\nFor each committee member, gather the following:\n\nPhoto (square format preferred)\nFull name\nExecutive Committee position\nPrimary affiliated institution and City\n\nBefore publishing, confirm all details with each member individually.\n\n\nPast Members\n\nReview the Chapter’s newsletters. These are the primary source for past committee members.\nIf information is missing or unclear, reach out to the chapter’s Executive Committee.\nArrange members in reverse chronological order, i.e. most recent first.\nUse the format: Full Name, Years Served. For example, John Doe, 2024-2025.\nFor the following roles, include additional details in parentheses:\n\nAnnual Meeting Organiser: add the meeting location. For example: John Doe, 1995 (Oxford)\nIndustrial Representative: add the company. For example: Jane Doe, 2000 (Company)",
+    "crumbs": [
+      "Workflows"
+    ]
+  },
+  {
+    "objectID": "workflows.html#about",
+    "href": "workflows.html#about",
+    "title": "Workflows",
+    "section": "About",
+    "text": "About\nThis is a primary menu for introducing the Chapter and providing links to key information, including its Bylaws, Committee Members, EDI policy, and history.\n\nBylaws\n\nThe Chapter’s bylaws are revised by the Executive Committee. Final approval and ratification typically occur at the Chapter’s Annual Meeting.\n\nThe official version of the bylaws is hosted on the Chapter’s website (WordPress). Previous versions are archived under the ISMRM site (ismrm.org/british/). Queries for archived copies can be directed to the ISMRM IT & Web Coordinator.\n\n\nAfter ratification, the Chapter President (or designated officer) prepares the final PDF.\n\nUpload the PDF to the website’s media library and copy the URL for the newly uploaded version.\n\nUpdate the link on the Chapter’s website to point to the latest version.\n\nDo not delete old versions, as this may cause other links to break.\n\n\n\nCommittee Members\n\nCurrent Members\nFor each committee member, gather the following:\n\nPhoto (square format preferred)\nFull name\nExecutive Committee position\nPrimary affiliated institution and City\n\nBefore publishing, confirm all details with each member individually.\n\n\nPast Members\n\nReview the Chapter’s newsletters. These are the primary source for past committee members.\nIf information is missing or unclear, reach out to the chapter’s Executive Committee.\nArrange members in reverse chronological order, i.e. most recent first.\nUse the format: Full Name, Years Served. For example, John Doe, 2024-2025.\nFor the following roles, include additional details in parentheses:\n\nAnnual Meeting Organiser: add the meeting location. For example: John Doe, 1995 (Oxford)\nIndustrial Representative: add the company. For example: Jane Doe, 2000 (Company)\n\n\n\n\n\nEquality, Diversity & Inclusion (EDI)\nThis page provides the EDI Policy, which outlines the Chapter’s commitment to equal opportunities, inclusive governance, and accessible participation in all activities and events.\n\n\nFormation of the Chapter\nThis page features an article by John Griffiths, Founder and first Chair of the British Chapter, providing an overview of the formation and development of the ISMRM British & Irish Chapter.",
     "crumbs": [
       "Workflows"
     ]

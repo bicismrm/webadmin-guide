@@ -53,16 +53,6 @@ The navigation bar replicates the **BIC Menu** in the [Header section](#header-a
 -   On narrow screens or mobile devices, the navigation bar collapses into a **hamburger menu** (≡).
 -   Any proposed changes should be reviewed in coordination with the ISMRM central office to ensure compliance with the core styling.
 
-## Bylaws
-
--   The Chapter’s bylaws are revised by the Executive Committee. Final approval and ratification typically occur at the Chapter’s Annual Meeting.\
--   The official version of the bylaws is hosted on the Chapter’s website (WordPress). Previous versions are archived under the ISMRM site (`ismrm.org/british/`). Queries for archived copies can be directed to the ISMRM IT & Web Coordinator.
-
-1.  After ratification, the Chapter President (or designated officer) prepares the final PDF.\
-2.  Upload the PDF to the website’s media library and copy the URL for the newly uploaded version.\
-3.  Update the link on the Chapter’s website to point to the latest version.\
-4.  **Do not delete old versions**, as this may cause other links to break.
-
 ## Landing Page
 
 ### Announcements
@@ -123,7 +113,7 @@ Please follow the steps below to update the media slides on the landing page.
 
 6.  Update the embedded video URL with the correct Vimeo link.
 
-### Newsletters
+### Newsletters {#landing-page-newsletters}
 
 ::: callout-important
 The official name for our chapter's newsletter is **Positive Spin**.
@@ -156,9 +146,23 @@ This section displays Bill Moore Lecture Recipients, Mansfield Research Innovati
 -   Visual assets are created using the [social media template](style-guides.html#social-media) provided by the ISMRM Central Office.
 -   Replace existing slides with updated visuals when new recipients or funding rounds are announced.
 
-## Committee
+## About
 
-### Current Members
+This is a primary menu for introducing the Chapter and providing links to key information, including its [Bylaws](#bylaws), [Committee Members](#committee-members), [EDI policy](#edi), and [history](#history).
+
+### Bylaws
+
+-   The Chapter’s bylaws are revised by the Executive Committee. Final approval and ratification typically occur at the Chapter’s Annual Meeting.\
+-   The official version of the bylaws is hosted on the Chapter’s website (WordPress). Previous versions are archived under the ISMRM site (`ismrm.org/british/`). Queries for archived copies can be directed to the ISMRM IT & Web Coordinator.
+
+1.  After ratification, the Chapter President (or designated officer) prepares the final PDF.\
+2.  Upload the PDF to the website’s media library and copy the URL for the newly uploaded version.\
+3.  Update the link on the Chapter’s website to point to the latest version.\
+4.  **Do not delete old versions**, as this may cause other links to break.
+
+### Committee Members
+
+#### Current Members
 
 For each committee member, gather the following:
 
@@ -169,7 +173,7 @@ For each committee member, gather the following:
 
 Before publishing, confirm all details with each member individually.
 
-### Past Members
+#### Past Members
 
 -   Review the Chapter’s newsletters. These are the primary source for past committee members.
 -   If information is missing or unclear, reach out to the chapter's Executive Committee.
@@ -179,27 +183,13 @@ Before publishing, confirm all details with each member individually.
     -   Annual Meeting Organiser: add the meeting location. For example: John Doe, 1995 (Oxford)
     -   Industrial Representative: add the company. For example: Jane Doe, 2000 (Company)
 
-## Awards
+### Equality, Diversity & Inclusion (EDI) {#edi}
 
-::: callout-note
-This page was previously called “Funding and Recognition.”
-:::
+This page provides the [EDI Policy](https://www.ismrm.org/british/2021_British_Irish_Chapter_EDI_policy.pdf), which outlines the Chapter’s commitment to equal opportunities, inclusive governance, and accessible participation in all activities and events.
 
-### Bill Moore Lecture Recipients
+### Formation of the Chapter {#history}
 
--   Refer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\
--   Record the recipient’s name and the city of the annual meeting.
--   If any of the details are unclear, confirm with the Chapter’s Executive Committee.
-
-### Mansfield Research Innovation Award
-
-::: callout-note
-This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.
-:::
-
--   Check the Chapter's Newsletters - this is typically where the winners are announced.
--   If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
--   For older or unclear entries, reach out to the chapter's Executive Committee for further details.
+This page features an article by John Griffiths, Founder and first Chair of the British Chapter, providing an overview of the formation and development of the ISMRM British & Irish Chapter.
 
 ## Join
 
@@ -213,14 +203,6 @@ This page contains information regarding membership requirements and the applica
 -   An overview on benefits,
 -   Detailed information on membership types, eligibility, and associated costs.
 -   Instructions on how to join the chapter.
-
-## Newsletter Hub
-
-::: callout-note
-For conciseness, this is called "Newsletters" on Header and Navigation Bar.
-:::
-
-To be added.
 
 ## Events
 
@@ -317,6 +299,50 @@ To maintain the table:
 2.  When a new series is announced, move earlier series into this archive.
 3.  Apply a category to each newly archived talk in the searchable table.
 
+## Newsletter Hub
+
+::: callout-note
+For conciseness, this page is labelled **"Newsletters"** in the header and navigation bar.
+:::
+
+The Newsletters page serves as a central hub for browsing **Positive Spin**, the Chapter's newsletter.
+
+- All newsletter issues are organised in **reverse chronological order** in a drop-down menu on the left-hand panel, making previous issues easier to navigate and find.
+- The selected newsletter is displayed in the reading panel on the right using an `<iframe>` element.
+  - A direct link to the newsletter is also provided in case the content does not display correctly or scrolling becomes slow in the user's browser.
+- The current and most recent issues are also linked from the Landing Page, [within the Newsletters section](#landing-page-newsletters).
+
+## Awards
+
+::: callout-note
+This page was previously called “Funding and Recognition.”
+:::
+
+### Bill Moore Lecture Recipients
+
+-   Refer to the programme of the Chapter’s Annual Meeting, where the Bill Moore Lecture recipient is typically listed.\
+-   Record the recipient’s name and the city of the annual meeting.
+-   If any of the details are unclear, confirm with the Chapter’s Executive Committee.
+
+### Mansfield Research Innovation Award
+
+::: callout-note
+This is not the Siemens Mansfield Innovation Award presented at the ISMRM annual meeting.
+:::
+
+-   Check the Chapter's Newsletters - this is typically where the winners are announced.
+-   If affliation information is missing, start with an online search (e.g., institutional websites, LinkedIn, PubMed) to verify the awardees' affiliations.
+-   For older or unclear entries, reach out to the chapter's Executive Committee for further details.
+
+## Outreach
+
+The Outreach page provides a dedicated space for bringing together the Chapter's outreach-related information, including:
+
+- Information and guidance for members interested in applying for the **New Initiative & Public Engagement Fund**.
+- **Previous Sponsored Events**, where examples of outreach activities previously supported by the Fund are archived.
+  -   Funded activities are treated as Sponsored Events. [Follow the process](#sponsored-events) to archive the programme in Events page.
+  -   Refer to the chapter’s mailing list or [past newsletters](https://bic.ismrm.org/newsletter-hub) to locate past recipients.
+
 ## Links
 
 The Links page provides a directory of useful resources related to organisations, imaging facilities, educational resources, professional networks, and career opportunities relevant to the MRI community across the United Kingdom and Ireland.
@@ -338,15 +364,6 @@ External links may be included where they:
     -   The content is no longer available;
     -   The content has become outdated;
     -   Concerns arise regarding the quality, accuracy, accessibility, or security of the content.
-
-## Outreach
-
-The Outreach page provides a dedicated space for bringing together the Chapter's outreach-related information, including:
-
-- Information and guidance for members interested in applying for the **New Initiative & Public Engagement Fund**.
-- **Previous Sponsored Events**, where examples of outreach activities previously supported by the Fund are archived.
-  -   Funded activities are treated as Sponsored Events. [Follow the process](#sponsored-events) to archive the programme in Events page.
-  -   Refer to the chapter’s mailing list or [past newsletters](https://bic.ismrm.org/newsletter-hub) to locate past recipients.
 
 ## Jobs
 
