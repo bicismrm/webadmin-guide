@@ -365,11 +365,6 @@ External links may be included where they:
     -   The content has become outdated;
     -   Concerns arise regarding the quality, accuracy, accessibility, or security of the content.
 
-## Jobs
-
--   The chapter does not maintain its own job board. At present, visitors are redirected to the ISMRM & ISMRT Career Center (<https://www.ismrm.org/career-center/>). 
--   The [Links](#links) page also provides external links to several relevant job boards.
-
 ## Contacts
 
 ::: callout-important
@@ -378,3 +373,8 @@ The Chapter’s general enquiries email address is [bicismrm\@ismrm.org](mailto:
 
 -   Ensure that the information on Contacts page is kept up to date.
 -   Ensure that the general contact email ([bicismrm\@ismrm.org](mailto:bicismrm@ismrm.org)) is used consistently across all communication platforms.
+
+## Jobs
+
+-   The chapter does not maintain its own job board. At present, visitors are redirected to the ISMRM & ISMRT Career Center (<https://www.ismrm.org/career-center/>). 
+-   The [Links](#links) page also provides external links to several relevant job boards.
