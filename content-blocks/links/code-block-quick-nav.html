@@ -1,0 +1,61 @@
+<style>
+div.quicknav {
+  /* column-count: 2; */
+  /* column-gap: 2em; */
+  width: 100%;
+}
+
+div.quicknav div {
+  break-inside: avoid;
+  margin-bottom: 1.25em;
+  text-align: center;
+}
+
+div.quicknav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+    gap: 0;
+}
+
+div.quicknav li {
+    display: flex;
+    align-items: center;
+}
+
+div.quicknav li:not(:last-child)::after {
+    content: "|";
+    margin: 0 0.5em;
+    color: #666;
+}
+
+div.quicknav div a {
+	text-decoration: none !important;
+	font-weight: normal;
+	transition: all 0.15s ease;
+}
+
+div.quicknav div a:hover {
+	text-decoration: none !important;
+	font-weight: bold;
+}
+</style>
+
+<div class="quicknav">
+	<div>
+		<h4>Quick Navigation</h4>
+		<ul>
+			<li><a href="#research-centres-imaging-facilities">Research Centres & Imaging Facilities</li>
+			<li><a href="#networks-associations">Networks & Associations</li>
+			<li><a href="#healthcare-clinical-practice">Healthcare & Clinical Practice</a></li>
+			<li><a href="#learning-education">Learning & Education</a></li>
+			<li><a href="#discussion-forums">Discussion Forums</a></li>
+			<li><a href="#job-careers">Job & Careers</a></li>
+			<li><a href="#publications-media">Publications & Media</a></li>
+		</ul>
+	</div>
+</div>
+
